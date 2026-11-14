@@ -1,0 +1,248 @@
+{
+  "corpus": {
+    "source_id": "gutenberg-54392",
+    "source_url": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+    "scope": "Printed pages 17-560 listed in ../data/manifest.yaml; excludes cover, contents, blank, references-only, and index pages"
+  },
+  "metadata_schema": {
+    "filter_field": "section",
+    "values": {
+      "introduction": "Printed pages 17-23",
+      "lesson_1": "Printed pages 24-34",
+      "lesson_2": "Printed pages 35-45",
+      "lesson_3": "Printed page 46",
+      "later_content": "Printed pages 47-560"
+    },
+    "assignment_rule": "Set section from the printed-page range; split a chunk at section boundaries so each chunk has one section value."
+  },
+  "questions": [
+    {
+      "id": "q01",
+      "type": "direct",
+      "split": "dev",
+      "question": "According to the introduction, what is the purpose of studying the history of music?",
+      "expected_answer": "To trace the development of the many aspects that make up modern music.",
+      "gold_source_id": "gutenberg-54392",
+      "gold_page": 17,
+      "evidence_quote": "The purpose of the study of the history of music is to trace the development of the many phases which make up modern music",
+      "filter": null
+    },
+    {
+      "id": "q02",
+      "type": "direct",
+      "split": "dev",
+      "question": "Which components does the author describe as the raw materials of music?",
+      "expected_answer": "Musical sounds, the human voice, musical instruments, and the use of these materials to affect listeners' sensibilities.",
+      "gold_source_id": "gutenberg-54392",
+      "gold_page": 18,
+      "evidence_quote": "The raw material of music consists of the sounds considered musical, the human voice, various musical instruments and the use of this material in such ways as to affect the human sensibilities",
+      "filter": null
+    },
+    {
+      "id": "q03",
+      "type": "direct",
+      "split": "dev",
+      "question": "According to the book, which two musical elements were the only real elements for ages after music began, and which was recognized first?",
+      "expected_answer": "Rhythm and melody; rhythm was recognized first.",
+      "gold_source_id": "gutenberg-54392",
+      "gold_page": 19,
+      "evidence_quote": "Rhythm and Melody were the only real elements, Rhythm being first recognized.",
+      "filter": null
+    },
+    {
+      "id": "q04",
+      "type": "direct",
+      "split": "dev",
+      "question": "Which areas does the book list for evaluating contributions to the progress of music?",
+      "expected_answer": "Form, expression, melody, rhythm, harmony, and instrumental color.",
+      "gold_source_id": "gutenberg-54392",
+      "gold_page": 20,
+      "evidence_quote": "Form, Expression, Melody, Rhythm, Harmony and Instrumental Color.",
+      "filter": null
+    },
+    {
+      "id": "q05",
+      "type": "paraphrase",
+      "split": "dev",
+      "question": "When studying a composer, should the focus be on their biography or their artistic contributions?",
+      "expected_answer": "Focus on the composer's specific contributions to the art rather than recounting their life.",
+      "gold_source_id": "gutenberg-54392",
+      "gold_page": 20,
+      "evidence_quote": "not a life chronicle so much as a clear statement of what he specially contributed to forward the art.",
+      "filter": null
+    },
+    {
+      "id": "q06",
+      "type": "direct",
+      "split": "dev",
+      "question": "Besides musical instruments and their representations, what other source does the book mention for studying early music?",
+      "expected_answer": "Fragments from contemporary or later writings.",
+      "gold_source_id": "gutenberg-54392",
+      "gold_page": 21,
+      "evidence_quote": "fragments from contemporary or later writings.",
+      "filter": null
+    },
+    {
+      "id": "q07",
+      "type": "direct",
+      "split": "dev",
+      "question": "According to Darwin's theory described in the book, why did human ancestors first develop the ability to produce musical tones and rhythm?",
+      "expected_answer": "To attract the opposite sex; the ability was then developed and improved through selection.",
+      "gold_source_id": "gutenberg-54392",
+      "gold_page": 22,
+      "evidence_quote": "first acquired by our animal ancestors as a means of attracting the opposite sex, the faculty being developed and improved by the process of selection.",
+      "filter": null
+    },
+    {
+      "id": "q08",
+      "type": "direct",
+      "split": "dev",
+      "question": "In Lesson I, when direct records of early music are lacking, what discoveries does the book say researchers must rely on?",
+      "expected_answer": "Archaeological discoveries in the buried cities of early civilizations.",
+      "gold_source_id": "gutenberg-54392",
+      "gold_page": 24,
+      "evidence_quote": "We must depend upon the discoveries of archæologists in the buried cities of early civilizations.",
+      "filter": {
+        "section": "lesson_1"
+      }
+    },
+    {
+      "id": "q09",
+      "type": "direct",
+      "split": "dev",
+      "question": "According to the book, what region do some scientists identify as the cradle of the human race?",
+      "expected_answer": "The high plateau of Asia, extending eastward from Persia through Tibet and including part of Manchuria.",
+      "gold_source_id": "gutenberg-54392",
+      "gold_page": 25,
+      "evidence_quote": "the cradle of the human race in the high plateau of Asia, extending from Persia eastward through Thibet and including part of Manchuria.",
+      "filter": null
+    },
+    {
+      "id": "q10",
+      "type": "direct",
+      "split": "dev",
+      "question": "In what year does the book say Confucius wrote about ancient music?",
+      "expected_answer": "551 B.C.",
+      "gold_source_id": "gutenberg-54392",
+      "gold_page": 26,
+      "evidence_quote": "Confucius, the chief Chinese philosopher, wrote about ancient music in 551 B. C.",
+      "filter": null
+    },
+    {
+      "id": "q11",
+      "type": "direct",
+      "split": "dev",
+      "question": "How many strings did the Se originally have, and how many does it have in current use according to the book?",
+      "expected_answer": "It originally had 50 strings and has 25 in current use.",
+      "gold_source_id": "gutenberg-54392",
+      "gold_page": 28,
+      "evidence_quote": "which had originally fifty strings. As now used, it has only twenty-five strings.",
+      "filter": null
+    },
+    {
+      "id": "q12",
+      "type": "direct",
+      "split": "dev",
+      "question": "In Lesson I, how does the book describe the Chinese vocal scale, and which notes does it give as an example?",
+      "expected_answer": "It is pentatonic, with F, G, A, C, and D given as an example.",
+      "gold_source_id": "gutenberg-54392",
+      "gold_page": 29,
+      "evidence_quote": "forming a pentatonic (five-tone scale), the letters of which, since F is a favorite tonic, may be represented by F, G, A, C, D.",
+      "filter": {
+        "section": "lesson_1"
+      }
+    },
+    {
+      "id": "q13",
+      "type": "direct",
+      "split": "dev",
+      "question": "Which instrument does the book identify as Japan's national instrument, and how many strings does it have?",
+      "expected_answer": "The Koto, with 13 strings.",
+      "gold_source_id": "gutenberg-54392",
+      "gold_page": 30,
+      "evidence_quote": "The national instrument is the Koto , which has thirteen strings",
+      "filter": null
+    },
+    {
+      "id": "q14",
+      "type": "direct",
+      "split": "dev",
+      "question": "Which instrument groups does the book list for the Hindoo people?",
+      "expected_answer": "Percussion instruments, trumpets and trombones, nose flutes, and especially stringed instruments.",
+      "gold_source_id": "gutenberg-54392",
+      "gold_page": 32,
+      "evidence_quote": "The Hindoo instruments belong to the percussion types, trumpets and trombones, nose flute, and especially to the stringed class.",
+      "filter": null
+    },
+    {
+      "id": "q15",
+      "type": "paraphrase",
+      "split": "dev",
+      "question": "What does the book say about melody, rhythm, and harmony in Hindoo music?",
+      "expected_answer": "Melody and rhythm are its principal features, with very complicated rhythm; the book says there is no harmony in the author's sense of the word.",
+      "gold_source_id": "gutenberg-54392",
+      "gold_page": 33,
+      "evidence_quote": "The principal feature of Hindoo music is the melody and rhythm, the latter being very complicated. Of harmony in our sense of the word there is no sign.",
+      "filter": null
+    },
+    {
+      "id": "q16",
+      "type": "direct",
+      "split": "test",
+      "question": "In Lesson II, for what purposes or occasions does the book say the Babylonians used trumpets?",
+      "expected_answer": "To signal armies and when large crowds gathered.",
+      "gold_source_id": "gutenberg-54392",
+      "gold_page": 37,
+      "evidence_quote": "the Babylonians made much use of trumpets to give signals to the armies and when great masses of the people were gathered together.",
+      "filter": {
+        "section": "lesson_2"
+      }
+    },
+    {
+      "id": "q17",
+      "type": "test_condition",
+      "split": "test",
+      "question": "If tomb-wall decorations are used as evidence about Egyptian musical life, can we conclude that Egyptians hardly used music?",
+      "expected_answer": "No. The decorations indicate that Egyptians made extensive use of music.",
+      "gold_source_id": "gutenberg-54392",
+      "gold_page": 39,
+      "evidence_quote": "From these decorations [on the walls of tombs] we perceive that the Egyptians made great use of music.",
+      "filter": null
+    },
+    {
+      "id": "q18",
+      "type": "direct",
+      "split": "test",
+      "question": "How does the book characterize Egyptian music and describe the intervals used by voices or instruments?",
+      "expected_answer": "It was melodic; instruments or voices played or sang in different octaves, rejecting other intervals.",
+      "gold_source_id": "gutenberg-54392",
+      "gold_page": 41,
+      "evidence_quote": "Egyptian music was melodic in character, the instruments or voices playing or singing in different octaves, rejecting other intervals.",
+      "filter": null
+    },
+    {
+      "id": "q19",
+      "type": "direct",
+      "split": "test",
+      "question": "According to the section on Hebrew music, what is the key to understanding it?",
+      "expected_answer": "Hebrew poetry.",
+      "gold_source_id": "gutenberg-54392",
+      "gold_page": 43,
+      "evidence_quote": "The key to the music of the Hebrews is their poetry.",
+      "filter": null
+    },
+    {
+      "id": "q20",
+      "type": "direct",
+      "split": "test",
+      "question": "In Lesson III, which city is introduced as the center of Greek art and culture?",
+      "expected_answer": "Athens.",
+      "gold_source_id": "gutenberg-54392",
+      "gold_page": 46,
+      "evidence_quote": "Athens, the centre of Greek art and culture",
+      "filter": {
+        "section": "lesson_3"
+      }
+    }
+  ]
+}

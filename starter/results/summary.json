@@ -1,0 +1,86 @@
+{
+  "A": {
+    "dev": {
+      "query_count": 15,
+      "hit_at_1": {
+        "hits": 11,
+        "total": 15,
+        "rate": 0.7333333333333333
+      },
+      "evidence_hit_at_3": {
+        "hits": 13,
+        "total": 15,
+        "rate": 0.8666666666666667
+      }
+    },
+    "test": {
+      "query_count": 5,
+      "hit_at_1": {
+        "hits": 5,
+        "total": 5,
+        "rate": 1.0
+      },
+      "evidence_hit_at_3": {
+        "hits": 5,
+        "total": 5,
+        "rate": 1.0
+      }
+    }
+  },
+  "B": {
+    "dev": {
+      "query_count": 15,
+      "hit_at_1": {
+        "hits": 11,
+        "total": 15,
+        "rate": 0.7333333333333333
+      },
+      "evidence_hit_at_3": {
+        "hits": 14,
+        "total": 15,
+        "rate": 0.9333333333333333
+      }
+    },
+    "test": {
+      "query_count": 5,
+      "hit_at_1": {
+        "hits": 5,
+        "total": 5,
+        "rate": 1.0
+      },
+      "evidence_hit_at_3": {
+        "hits": 5,
+        "total": 5,
+        "rate": 1.0
+      }
+    }
+  },
+  "C": {
+    "dev": {
+      "query_count": 15,
+      "hit_at_1": {
+        "hits": 11,
+        "total": 15,
+        "rate": 0.7333333333333333
+      },
+      "evidence_hit_at_3": {
+        "hits": 14,
+        "total": 15,
+        "rate": 0.9333333333333333
+      }
+    },
+    "test": {
+      "query_count": 5,
+      "hit_at_1": {
+        "hits": 5,
+        "total": 5,
+        "rate": 1.0
+      },
+      "evidence_hit_at_3": {
+        "hits": 5,
+        "total": 5,
+        "rate": 1.0
+      }
+    }
+  }
+}

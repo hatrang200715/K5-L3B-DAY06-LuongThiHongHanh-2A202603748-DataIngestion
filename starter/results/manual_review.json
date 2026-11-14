@@ -1,0 +1,1027 @@
+{
+  "notice": "Human labels are intentionally blank; complete them after reviewing the evidence.",
+  "grounding_samples": [
+    {
+      "strategy": "A",
+      "question_id": "q16",
+      "question": "In Lesson II, for what purposes or occasions does the book say the Babylonians used trumpets?",
+      "hits": [
+        {
+          "chunk_id": "gutenberg-54392-p37-fixed-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 37,
+          "text": "bodies of players and singers in their great ceremonies. These tablets indicate that the Babylonians made much use of trumpets to give signals to the armies and when great masses of the people were gathered together. That musicians were highly esteemed we judge from the fact that on one occasion Sennacherib spared the lives of musicians among his captives, all others being put to death. Since the Chaldeans, especially, were famous as astronomers and mathematicians, it is thought that they, like ",
+          "metadata": {
+            "page_id": "gutenberg-54392-p037",
+            "section": "lesson_2",
+            "printed_page": 37,
+            "extraction_status": "extracted"
+          },
+          "score": 0.6173039465638934
+        },
+        {
+          "chunk_id": "gutenberg-54392-p36-fixed-0002",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 36,
+          "text": " Practice of Music Among the Babylonians.—In the great ruins now being excavated, tablets of clay have been found which give a vivid idea of the social and religious esteem in which music was held by the Babylonians. One of these tablets, said to date back more than three thousand years B. C., contains a representation of musicians. One strikes with a hammer upon a metal plate, another carries a reed pipe, a third plays upon a harp of eleven strings, while two others beat time or give the accent",
+          "metadata": {
+            "page_id": "gutenberg-54392-p036",
+            "section": "lesson_2",
+            "printed_page": 36,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5371747986455209
+        },
+        {
+          "chunk_id": "gutenberg-54392-p36-fixed-0001",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 36,
+          "text": "nd show that music was an important branch of study; at a very early date the harp, pipe and cymbals are mentioned, and we infer that the people were fond of singing, since many sacred hymns have been recorded in tablets. This race, joined to others, founded the Chaldean kingdom, the capital being Babylon. In the 12th century B. C., a king of Assyria, in the northern part of the Tigris valley, conquered Babylon and thus gained the ascendancy. The Practice of Music Among the Babylonians.—In the g",
+          "metadata": {
+            "page_id": "gutenberg-54392-p036",
+            "section": "lesson_2",
+            "printed_page": 36,
+            "extraction_status": "extracted"
+          },
+          "score": 0.521414680547685
+        }
+      ],
+      "automatic_evidence_hit_at_3": true,
+      "human_grounding_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "A",
+      "question_id": "q17",
+      "question": "If tomb-wall decorations are used as evidence about Egyptian musical life, can we conclude that Egyptians hardly used music?",
+      "hits": [
+        {
+          "chunk_id": "gutenberg-54392-p39-fixed-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 39,
+          "text": "Place of Music in Egyptian Life.—To show the place of music in Egyptian life, the following from Ambros’ history will serve admirably: “From these decorations [on the walls of tombs] we perceive that the Egyptians made great use of music. We find harps of many sizes and shapes, small and easily portable, to others beyond the height of a man, crude and of the utmost simplicity, to others elaborate and extremely rich in decoration. We note an almost endless variety of lyres, guitars and mandolins ",
+          "metadata": {
+            "page_id": "gutenberg-54392-p039",
+            "section": "lesson_2",
+            "printed_page": 39,
+            "extraction_status": "extracted"
+          },
+          "score": 0.6835007686066301
+        },
+        {
+          "chunk_id": "gutenberg-54392-p20-fixed-0003",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 20,
+          "text": "rpretations of Archæology. The results are by no means satisfactory. In all the digging in the ruins of the once great cities of Egypt, and Western Asia, and of Greece and Etruria as well, with perhaps one exception, no music has been brought to light, and but a few instruments, and these can scarcely be considered perfect. However, the pictorial representations on tombs, monuments, temples and houses give valuable aid, enabling scholars to reconstruct the story of music among the older civiliza",
+          "metadata": {
+            "page_id": "gutenberg-54392-p020",
+            "section": "introduction",
+            "printed_page": 20,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5826817526206759
+        },
+        {
+          "chunk_id": "gutenberg-54392-p38-fixed-0003",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 38,
+          "text": "rential, are, then, the various pictorial and sculptured representations of the Egyptian musical instruments and the manner in which they were used, and a few fragments of their sacred books, which were forty-two in number, two being devoted to music, although but one fragment has been found. It must be noted, further, that the Egyptian Government, although nominally a monarchy, limited, not absolute, was in reality theocratic. The priestly caste had final power, and the rules and regulations dr",
+          "metadata": {
+            "page_id": "gutenberg-54392-p038",
+            "section": "lesson_2",
+            "printed_page": 38,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5563617300093938
+        }
+      ],
+      "automatic_evidence_hit_at_3": true,
+      "human_grounding_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "A",
+      "question_id": "q18",
+      "question": "How does the book characterize Egyptian music and describe the intervals used by voices or instruments?",
+      "hits": [
+        {
+          "chunk_id": "gutenberg-54392-p41-fixed-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 41,
+          "text": "Philosophy and Practice of Egyptian Music.—The consensus of opinion is that Egyptian music was melodic in character, the instruments or voices playing or singing in different octaves, rejecting other intervals. As the Greeks seem to have drawn from the Egyptians much of their practice in music, it is reasonable to suppose that they would have used harmony if the Egyptians had been accustomed to make use of it. As to the Egyptian theory of music we have no information. Since, however, Pythagoras,",
+          "metadata": {
+            "page_id": "gutenberg-54392-p041",
+            "section": "lesson_2",
+            "printed_page": 41,
+            "extraction_status": "extracted"
+          },
+          "score": 0.6752952333827099
+        },
+        {
+          "chunk_id": "gutenberg-54392-p39-fixed-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 39,
+          "text": "Place of Music in Egyptian Life.—To show the place of music in Egyptian life, the following from Ambros’ history will serve admirably: “From these decorations [on the walls of tombs] we perceive that the Egyptians made great use of music. We find harps of many sizes and shapes, small and easily portable, to others beyond the height of a man, crude and of the utmost simplicity, to others elaborate and extremely rich in decoration. We note an almost endless variety of lyres, guitars and mandolins ",
+          "metadata": {
+            "page_id": "gutenberg-54392-p039",
+            "section": "lesson_2",
+            "printed_page": 39,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5916186546752155
+        },
+        {
+          "chunk_id": "gutenberg-54392-p45-fixed-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 45,
+          "text": "What instruments did they use? How do we learn of the ideas of the Egyptians in regard to music? Who controlled the knowledge of music and other sciences and arts? Was this beneficial to music? What instruments did the Egyptians use? What was the character of Egyptian music? What was the origin of the Hebrew race? What influences did they come under in Egypt? What difference was there between the music of the Hebrews and that of the nations around them? Why did they express themselves in poetry ",
+          "metadata": {
+            "page_id": "gutenberg-54392-p045",
+            "section": "lesson_2",
+            "printed_page": 45,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5877594958934892
+        }
+      ],
+      "automatic_evidence_hit_at_3": true,
+      "human_grounding_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "A",
+      "question_id": "q19",
+      "question": "According to the section on Hebrew music, what is the key to understanding it?",
+      "hits": [
+        {
+          "chunk_id": "gutenberg-54392-p43-fixed-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 43,
+          "text": "Hebrew Poetry and Its Relation to Their Music.—The key to the music of the Hebrews is their poetry. They grew to numbers under the most adverse circumstances, and developed a temperament indifferent to environment and elevated to high spiritual aspiration, making them an intensely religious people, whose life was little softened by artistic practice. The effect of the injunction against the making of “graven images,” as given them in the code of Moses, was to cut them off from the exercise of th",
+          "metadata": {
+            "page_id": "gutenberg-54392-p043",
+            "section": "lesson_2",
+            "printed_page": 43,
+            "extraction_status": "extracted"
+          },
+          "score": 0.6145049742030309
+        },
+        {
+          "chunk_id": "gutenberg-54392-p44-fixed-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 44,
+          "text": "there must have been some special character in them as shown by the command of the Babylonians, “Sing us the songs of Zion.” The principal relation that the Hebrews have to the history of music arises from the enduring impress the works of the Psalmist and other portions of the Scriptures have made upon the music of the Christian Church. Hebrew Instruments.—The Hebrews borrowed their instruments from other nations, principally from the Egyptians, the one most favored being a form of the harp, sm",
+          "metadata": {
+            "page_id": "gutenberg-54392-p044",
+            "section": "lesson_2",
+            "printed_page": 44,
+            "extraction_status": "extracted"
+          },
+          "score": 0.576551647849854
+        },
+        {
+          "chunk_id": "gutenberg-54392-p45-fixed-0001",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 45,
+          "text": "d them? Why did they express themselves in poetry and music? What was a leading characteristic of their poetry? Have any ancient Hebrew melodies been preserved? What musical instruments did the Hebrews have? What was the origin of these instruments?",
+          "metadata": {
+            "page_id": "gutenberg-54392-p045",
+            "section": "lesson_2",
+            "printed_page": 45,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5562960665531597
+        }
+      ],
+      "automatic_evidence_hit_at_3": true,
+      "human_grounding_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "A",
+      "question_id": "q20",
+      "question": "In Lesson III, which city is introduced as the center of Greek art and culture?",
+      "hits": [
+        {
+          "chunk_id": "gutenberg-54392-p46-fixed-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 46,
+          "text": "LESSON III. Music of the Greeks: Scales. When we think of Greece, it is Athens, the centre of Greek art and culture, that comes to mind. An ancient city, Athens, as history teaches us. The record is that it was founded by Cecrops, who brought a colony from Egypt, in 1556 B. C., a period when Egypt was a centre of power, wealth, education and science. Therefore we infer that these colonists brought with them to Greece the ordinary, popular music and instruments to which they had become accustomed",
+          "metadata": {
+            "page_id": "gutenberg-54392-p046",
+            "section": "lesson_3",
+            "printed_page": 46,
+            "extraction_status": "extracted"
+          },
+          "score": 0.6856722782604159
+        },
+        {
+          "chunk_id": "gutenberg-54392-p61-fixed-0001",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 61,
+          "text": "dvance of the Greeks, but leaving behind, as a legacy, much that has had enduring value. What had once been centred in one nation, under the control of one caste, the priests, was spread through much of the known world. Greece, in turn, shaped the destinies of expanding civilization. In the Greek social life free art played a great part; wherever the Greeks went as merchants and colonists, they carried with them the principles of Greek art, including music. Greek musicians were accounted stars o",
+          "metadata": {
+            "page_id": "gutenberg-54392-p061",
+            "section": "later_content",
+            "printed_page": 61,
+            "extraction_status": "extracted"
+          },
+          "score": 0.574541269758718
+        },
+        {
+          "chunk_id": "gutenberg-54392-p62-fixed-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 62,
+          "text": "true art life. As they grew stronger they built up their collections by pillage and by purchase; they were taught music, oratory, architecture, sculpture by Greeks who sought the capital of the world. Roman nobles imitated Greek customs, learned the Greek language and literature, cultivated music according to Greek methods, used Greek instruments, such as the cithara, lyre and flute, sang Greek songs and formed companies of singers and players to furnish entertainment at their feasts and at the ",
+          "metadata": {
+            "page_id": "gutenberg-54392-p062",
+            "section": "later_content",
+            "printed_page": 62,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5699837815613799
+        }
+      ],
+      "automatic_evidence_hit_at_3": true,
+      "human_grounding_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "B",
+      "question_id": "q16",
+      "question": "In Lesson II, for what purposes or occasions does the book say the Babylonians used trumpets?",
+      "hits": [
+        {
+          "chunk_id": "gutenberg-54392-p37-paragraph-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 37,
+          "text": "bodies of players and singers in their great ceremonies. These tablets indicate that the Babylonians made much use of trumpets to give signals to the armies and when great masses of the people were gathered together. That musicians were highly esteemed we judge from the fact that on one occasion Sennacherib spared the lives of musicians among his captives, all others being put to death. Since the Chaldeans, especially, were famous as astronomers and mathematicians, it is thought that they, like ",
+          "metadata": {
+            "page_id": "gutenberg-54392-p037",
+            "section": "lesson_2",
+            "printed_page": 37,
+            "extraction_status": "extracted"
+          },
+          "score": 0.6173192535177892
+        },
+        {
+          "chunk_id": "gutenberg-54392-p35-paragraph-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 35,
+          "text": "LESSON II. Music of the Babylonians, Egyptians and Hebrews. History a Record of Change.—History is a record of changing conditions. Nations rise into prominence and fall again; cities are built to be torn down by conquerors; even the face of the earth has changed since the days when the scions of the Aryan race began to leave their home in Central Asia. Arms of the sea have shrunk to rivers, rivers to shallow streams, the desert sands have encroached on the once fertile valleys, and choked the s",
+          "metadata": {
+            "page_id": "gutenberg-54392-p035",
+            "section": "lesson_2",
+            "printed_page": 35,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5073339710849974
+        },
+        {
+          "chunk_id": "gutenberg-54392-p36-paragraph-0002",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 36,
+          "text": "ve been found which give a vivid idea of the social and religious esteem in which music was held by the Babylonians. One of these tablets, said to date back more than three thousand years B. C., contains a representation of musicians. One strikes with a hammer upon a metal plate, another carries a reed pipe, a third plays upon a harp of eleven strings, while two others beat time or give the accent by clapping their hands. Especially rich in sculpture is the palace of Sennacherib. One of the reli",
+          "metadata": {
+            "page_id": "gutenberg-54392-p036",
+            "section": "lesson_2",
+            "printed_page": 36,
+            "extraction_status": "extracted"
+          },
+          "score": 0.4989327403740591
+        }
+      ],
+      "automatic_evidence_hit_at_3": true,
+      "human_grounding_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "B",
+      "question_id": "q17",
+      "question": "If tomb-wall decorations are used as evidence about Egyptian musical life, can we conclude that Egyptians hardly used music?",
+      "hits": [
+        {
+          "chunk_id": "gutenberg-54392-p39-paragraph-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 39,
+          "text": "Place of Music in Egyptian Life.—To show the place of music in Egyptian life, the following from Ambros’ history will serve admirably: “From these decorations [on the walls of tombs] we perceive that the Egyptians made great use of music. We find harps of many sizes and shapes, small and easily portable, to others beyond the height of a man, crude and of the utmost simplicity, to others elaborate and extremely rich in decoration. We note an almost endless variety of lyres, guitars and mandolins ",
+          "metadata": {
+            "page_id": "gutenberg-54392-p039",
+            "section": "lesson_2",
+            "printed_page": 39,
+            "extraction_status": "extracted"
+          },
+          "score": 0.6834768421142866
+        },
+        {
+          "chunk_id": "gutenberg-54392-p38-paragraph-0002",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 38,
+          "text": "d. In Egyptian tombs pipes or “flutes” have been found, and in one instance, in the tomb of a musician, the bronze cymbals he played when alive. In the various tombs and ruins that have been examined by explorers, pictorial representations of practically every phase of Egyptian life have been found. The sources for our knowledge, almost wholly inferential, are, then, the various pictorial and sculptured representations of the Egyptian musical instruments and the manner in which they were used, a",
+          "metadata": {
+            "page_id": "gutenberg-54392-p038",
+            "section": "lesson_2",
+            "printed_page": 38,
+            "extraction_status": "extracted"
+          },
+          "score": 0.6092109654095577
+        },
+        {
+          "chunk_id": "gutenberg-54392-p20-paragraph-0003",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 20,
+          "text": "ia, and of Greece and Etruria as well, with perhaps one exception, no music has been brought to light, and but a few instruments, and these can scarcely be considered perfect. However, the pictorial representations on tombs, monuments, temples and houses give valuable aid, enabling scholars to reconstruct the story of music among the older civilizations. We must not forget, however, that conjecture plays a more or less prominent part in all the translations of the old hieroglyphic and cuneiform ",
+          "metadata": {
+            "page_id": "gutenberg-54392-p020",
+            "section": "introduction",
+            "printed_page": 20,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5725613735607499
+        }
+      ],
+      "automatic_evidence_hit_at_3": true,
+      "human_grounding_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "B",
+      "question_id": "q18",
+      "question": "How does the book characterize Egyptian music and describe the intervals used by voices or instruments?",
+      "hits": [
+        {
+          "chunk_id": "gutenberg-54392-p41-paragraph-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 41,
+          "text": "Philosophy and Practice of Egyptian Music.—The consensus of opinion is that Egyptian music was melodic in character, the instruments or voices playing or singing in different octaves, rejecting other intervals. As the Greeks seem to have drawn from the Egyptians much of their practice in music, it is reasonable to suppose that they would have used harmony if the Egyptians had been accustomed to make use of it. As to the Egyptian theory of music we have no information. Since, however, Pythagoras,",
+          "metadata": {
+            "page_id": "gutenberg-54392-p041",
+            "section": "lesson_2",
+            "printed_page": 41,
+            "extraction_status": "extracted"
+          },
+          "score": 0.6752742088043275
+        },
+        {
+          "chunk_id": "gutenberg-54392-p39-paragraph-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 39,
+          "text": "Place of Music in Egyptian Life.—To show the place of music in Egyptian life, the following from Ambros’ history will serve admirably: “From these decorations [on the walls of tombs] we perceive that the Egyptians made great use of music. We find harps of many sizes and shapes, small and easily portable, to others beyond the height of a man, crude and of the utmost simplicity, to others elaborate and extremely rich in decoration. We note an almost endless variety of lyres, guitars and mandolins ",
+          "metadata": {
+            "page_id": "gutenberg-54392-p039",
+            "section": "lesson_2",
+            "printed_page": 39,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5915273002435708
+        },
+        {
+          "chunk_id": "gutenberg-54392-p45-paragraph-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 45,
+          "text": "What instruments did they use? How do we learn of the ideas of the Egyptians in regard to music? Who controlled the knowledge of music and other sciences and arts? Was this beneficial to music? What instruments did the Egyptians use? What was the character of Egyptian music? What was the origin of the Hebrew race? What influences did they come under in Egypt? What difference was there between the music of the Hebrews and that of the nations around them? Why did they express themselves in poetry ",
+          "metadata": {
+            "page_id": "gutenberg-54392-p045",
+            "section": "lesson_2",
+            "printed_page": 45,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5877445547109877
+        }
+      ],
+      "automatic_evidence_hit_at_3": true,
+      "human_grounding_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "B",
+      "question_id": "q19",
+      "question": "According to the section on Hebrew music, what is the key to understanding it?",
+      "hits": [
+        {
+          "chunk_id": "gutenberg-54392-p43-paragraph-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 43,
+          "text": "Hebrew Poetry and Its Relation to Their Music.—The key to the music of the Hebrews is their poetry. They grew to numbers under the most adverse circumstances, and developed a temperament indifferent to environment and elevated to high spiritual aspiration, making them an intensely religious people, whose life was little softened by artistic practice. The effect of the injunction against the making of “graven images,” as given them in the code of Moses, was to cut them off from the exercise of th",
+          "metadata": {
+            "page_id": "gutenberg-54392-p043",
+            "section": "lesson_2",
+            "printed_page": 43,
+            "extraction_status": "extracted"
+          },
+          "score": 0.6144458965259505
+        },
+        {
+          "chunk_id": "gutenberg-54392-p44-paragraph-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 44,
+          "text": "there must have been some special character in them as shown by the command of the Babylonians, “Sing us the songs of Zion.” The principal relation that the Hebrews have to the history of music arises from the enduring impress the works of the Psalmist and other portions of the Scriptures have made upon the music of the Christian Church. Hebrew Instruments.—The Hebrews borrowed their instruments from other nations, principally from the Egyptians, the one most favored being a form of the harp, sm",
+          "metadata": {
+            "page_id": "gutenberg-54392-p044",
+            "section": "lesson_2",
+            "printed_page": 44,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5765362304326526
+        },
+        {
+          "chunk_id": "gutenberg-54392-p45-paragraph-0001",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 45,
+          "text": "and music? What was a leading characteristic of their poetry? Have any ancient Hebrew melodies been preserved? What musical instruments did the Hebrews have? What was the origin of these instruments?",
+          "metadata": {
+            "page_id": "gutenberg-54392-p045",
+            "section": "lesson_2",
+            "printed_page": 45,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5515941669458633
+        }
+      ],
+      "automatic_evidence_hit_at_3": true,
+      "human_grounding_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "B",
+      "question_id": "q20",
+      "question": "In Lesson III, which city is introduced as the center of Greek art and culture?",
+      "hits": [
+        {
+          "chunk_id": "gutenberg-54392-p46-paragraph-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 46,
+          "text": "LESSON III. Music of the Greeks: Scales. When we think of Greece, it is Athens, the centre of Greek art and culture, that comes to mind. An ancient city, Athens, as history teaches us. The record is that it was founded by Cecrops, who brought a colony from Egypt, in 1556 B. C., a period when Egypt was a centre of power, wealth, education and science. Therefore we infer that these colonists brought with them to Greece the ordinary, popular music and instruments to which they had become accustomed",
+          "metadata": {
+            "page_id": "gutenberg-54392-p046",
+            "section": "lesson_3",
+            "printed_page": 46,
+            "extraction_status": "extracted"
+          },
+          "score": 0.6856722782604159
+        },
+        {
+          "chunk_id": "gutenberg-54392-p61-paragraph-0002",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 61,
+          "text": "ies of Italy, and later in Rome, which, after the fall of Greece as a political factor, became the political, social and artistic centre of the world; through her conquests and subsequent colonizing diffusing throughout a larger world than Egypt and Greece knew, an increased wealth of thought and action which greatly influenced later generations. Rome Dependent Upon Greece.—The Romans did not show a native instinct for art. Their national qualities were essentially warlike, and were developed by",
+          "metadata": {
+            "page_id": "gutenberg-54392-p061",
+            "section": "later_content",
+            "printed_page": 61,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5869007911425582
+        },
+        {
+          "chunk_id": "gutenberg-54392-p61-paragraph-0001",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 61,
+          "text": "acy, much that has had enduring value. What had once been centred in one nation, under the control of one caste, the priests, was spread through much of the known world. Greece, in turn, shaped the destinies of expanding civilization. In the Greek social life free art played a great part; wherever the Greeks went as merchants and colonists, they carried with them the principles of Greek art, including music. Greek musicians were accounted stars of the first magnitude in Egypt, in the Greek colon",
+          "metadata": {
+            "page_id": "gutenberg-54392-p061",
+            "section": "later_content",
+            "printed_page": 61,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5748502349584134
+        }
+      ],
+      "automatic_evidence_hit_at_3": true,
+      "human_grounding_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "C",
+      "question_id": "q16",
+      "question": "In Lesson II, for what purposes or occasions does the book say the Babylonians used trumpets?",
+      "hits": [
+        {
+          "chunk_id": "gutenberg-54392-p37-paragraph-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 37,
+          "text": "bodies of players and singers in their great ceremonies. These tablets indicate that the Babylonians made much use of trumpets to give signals to the armies and when great masses of the people were gathered together. That musicians were highly esteemed we judge from the fact that on one occasion Sennacherib spared the lives of musicians among his captives, all others being put to death. Since the Chaldeans, especially, were famous as astronomers and mathematicians, it is thought that they, like ",
+          "metadata": {
+            "page_id": "gutenberg-54392-p037",
+            "section": "lesson_2",
+            "printed_page": 37,
+            "extraction_status": "extracted"
+          },
+          "score": 0.6173192535177892
+        },
+        {
+          "chunk_id": "gutenberg-54392-p35-paragraph-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 35,
+          "text": "LESSON II. Music of the Babylonians, Egyptians and Hebrews. History a Record of Change.—History is a record of changing conditions. Nations rise into prominence and fall again; cities are built to be torn down by conquerors; even the face of the earth has changed since the days when the scions of the Aryan race began to leave their home in Central Asia. Arms of the sea have shrunk to rivers, rivers to shallow streams, the desert sands have encroached on the once fertile valleys, and choked the s",
+          "metadata": {
+            "page_id": "gutenberg-54392-p035",
+            "section": "lesson_2",
+            "printed_page": 35,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5073339710849974
+        },
+        {
+          "chunk_id": "gutenberg-54392-p36-paragraph-0002",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 36,
+          "text": "ve been found which give a vivid idea of the social and religious esteem in which music was held by the Babylonians. One of these tablets, said to date back more than three thousand years B. C., contains a representation of musicians. One strikes with a hammer upon a metal plate, another carries a reed pipe, a third plays upon a harp of eleven strings, while two others beat time or give the accent by clapping their hands. Especially rich in sculpture is the palace of Sennacherib. One of the reli",
+          "metadata": {
+            "page_id": "gutenberg-54392-p036",
+            "section": "lesson_2",
+            "printed_page": 36,
+            "extraction_status": "extracted"
+          },
+          "score": 0.4989327403740591
+        }
+      ],
+      "automatic_evidence_hit_at_3": true,
+      "human_grounding_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "C",
+      "question_id": "q17",
+      "question": "If tomb-wall decorations are used as evidence about Egyptian musical life, can we conclude that Egyptians hardly used music?",
+      "hits": [
+        {
+          "chunk_id": "gutenberg-54392-p39-paragraph-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 39,
+          "text": "Place of Music in Egyptian Life.—To show the place of music in Egyptian life, the following from Ambros’ history will serve admirably: “From these decorations [on the walls of tombs] we perceive that the Egyptians made great use of music. We find harps of many sizes and shapes, small and easily portable, to others beyond the height of a man, crude and of the utmost simplicity, to others elaborate and extremely rich in decoration. We note an almost endless variety of lyres, guitars and mandolins ",
+          "metadata": {
+            "page_id": "gutenberg-54392-p039",
+            "section": "lesson_2",
+            "printed_page": 39,
+            "extraction_status": "extracted"
+          },
+          "score": 0.6834768421142866
+        },
+        {
+          "chunk_id": "gutenberg-54392-p38-paragraph-0002",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 38,
+          "text": "d. In Egyptian tombs pipes or “flutes” have been found, and in one instance, in the tomb of a musician, the bronze cymbals he played when alive. In the various tombs and ruins that have been examined by explorers, pictorial representations of practically every phase of Egyptian life have been found. The sources for our knowledge, almost wholly inferential, are, then, the various pictorial and sculptured representations of the Egyptian musical instruments and the manner in which they were used, a",
+          "metadata": {
+            "page_id": "gutenberg-54392-p038",
+            "section": "lesson_2",
+            "printed_page": 38,
+            "extraction_status": "extracted"
+          },
+          "score": 0.6092109654095577
+        },
+        {
+          "chunk_id": "gutenberg-54392-p20-paragraph-0003",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 20,
+          "text": "ia, and of Greece and Etruria as well, with perhaps one exception, no music has been brought to light, and but a few instruments, and these can scarcely be considered perfect. However, the pictorial representations on tombs, monuments, temples and houses give valuable aid, enabling scholars to reconstruct the story of music among the older civilizations. We must not forget, however, that conjecture plays a more or less prominent part in all the translations of the old hieroglyphic and cuneiform ",
+          "metadata": {
+            "page_id": "gutenberg-54392-p020",
+            "section": "introduction",
+            "printed_page": 20,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5725613735607499
+        }
+      ],
+      "automatic_evidence_hit_at_3": true,
+      "human_grounding_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "C",
+      "question_id": "q18",
+      "question": "How does the book characterize Egyptian music and describe the intervals used by voices or instruments?",
+      "hits": [
+        {
+          "chunk_id": "gutenberg-54392-p41-paragraph-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 41,
+          "text": "Philosophy and Practice of Egyptian Music.—The consensus of opinion is that Egyptian music was melodic in character, the instruments or voices playing or singing in different octaves, rejecting other intervals. As the Greeks seem to have drawn from the Egyptians much of their practice in music, it is reasonable to suppose that they would have used harmony if the Egyptians had been accustomed to make use of it. As to the Egyptian theory of music we have no information. Since, however, Pythagoras,",
+          "metadata": {
+            "page_id": "gutenberg-54392-p041",
+            "section": "lesson_2",
+            "printed_page": 41,
+            "extraction_status": "extracted"
+          },
+          "score": 0.6752742088043275
+        },
+        {
+          "chunk_id": "gutenberg-54392-p39-paragraph-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 39,
+          "text": "Place of Music in Egyptian Life.—To show the place of music in Egyptian life, the following from Ambros’ history will serve admirably: “From these decorations [on the walls of tombs] we perceive that the Egyptians made great use of music. We find harps of many sizes and shapes, small and easily portable, to others beyond the height of a man, crude and of the utmost simplicity, to others elaborate and extremely rich in decoration. We note an almost endless variety of lyres, guitars and mandolins ",
+          "metadata": {
+            "page_id": "gutenberg-54392-p039",
+            "section": "lesson_2",
+            "printed_page": 39,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5915273002435708
+        },
+        {
+          "chunk_id": "gutenberg-54392-p45-paragraph-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 45,
+          "text": "What instruments did they use? How do we learn of the ideas of the Egyptians in regard to music? Who controlled the knowledge of music and other sciences and arts? Was this beneficial to music? What instruments did the Egyptians use? What was the character of Egyptian music? What was the origin of the Hebrew race? What influences did they come under in Egypt? What difference was there between the music of the Hebrews and that of the nations around them? Why did they express themselves in poetry ",
+          "metadata": {
+            "page_id": "gutenberg-54392-p045",
+            "section": "lesson_2",
+            "printed_page": 45,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5877445547109877
+        }
+      ],
+      "automatic_evidence_hit_at_3": true,
+      "human_grounding_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "C",
+      "question_id": "q19",
+      "question": "According to the section on Hebrew music, what is the key to understanding it?",
+      "hits": [
+        {
+          "chunk_id": "gutenberg-54392-p43-paragraph-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 43,
+          "text": "Hebrew Poetry and Its Relation to Their Music.—The key to the music of the Hebrews is their poetry. They grew to numbers under the most adverse circumstances, and developed a temperament indifferent to environment and elevated to high spiritual aspiration, making them an intensely religious people, whose life was little softened by artistic practice. The effect of the injunction against the making of “graven images,” as given them in the code of Moses, was to cut them off from the exercise of th",
+          "metadata": {
+            "page_id": "gutenberg-54392-p043",
+            "section": "lesson_2",
+            "printed_page": 43,
+            "extraction_status": "extracted"
+          },
+          "score": 0.6144458965259505
+        },
+        {
+          "chunk_id": "gutenberg-54392-p44-paragraph-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 44,
+          "text": "there must have been some special character in them as shown by the command of the Babylonians, “Sing us the songs of Zion.” The principal relation that the Hebrews have to the history of music arises from the enduring impress the works of the Psalmist and other portions of the Scriptures have made upon the music of the Christian Church. Hebrew Instruments.—The Hebrews borrowed their instruments from other nations, principally from the Egyptians, the one most favored being a form of the harp, sm",
+          "metadata": {
+            "page_id": "gutenberg-54392-p044",
+            "section": "lesson_2",
+            "printed_page": 44,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5765362304326526
+        },
+        {
+          "chunk_id": "gutenberg-54392-p45-paragraph-0001",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 45,
+          "text": "and music? What was a leading characteristic of their poetry? Have any ancient Hebrew melodies been preserved? What musical instruments did the Hebrews have? What was the origin of these instruments?",
+          "metadata": {
+            "page_id": "gutenberg-54392-p045",
+            "section": "lesson_2",
+            "printed_page": 45,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5515941669458633
+        }
+      ],
+      "automatic_evidence_hit_at_3": true,
+      "human_grounding_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "C",
+      "question_id": "q20",
+      "question": "In Lesson III, which city is introduced as the center of Greek art and culture?",
+      "hits": [
+        {
+          "chunk_id": "gutenberg-54392-p46-paragraph-0000",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 46,
+          "text": "LESSON III. Music of the Greeks: Scales. When we think of Greece, it is Athens, the centre of Greek art and culture, that comes to mind. An ancient city, Athens, as history teaches us. The record is that it was founded by Cecrops, who brought a colony from Egypt, in 1556 B. C., a period when Egypt was a centre of power, wealth, education and science. Therefore we infer that these colonists brought with them to Greece the ordinary, popular music and instruments to which they had become accustomed",
+          "metadata": {
+            "page_id": "gutenberg-54392-p046",
+            "section": "lesson_3",
+            "printed_page": 46,
+            "extraction_status": "extracted"
+          },
+          "score": 0.6856722782604159
+        },
+        {
+          "chunk_id": "gutenberg-54392-p46-paragraph-0001",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 46,
+          "text": " in their home. But there was an older Greece; for late discoveries show that there were five cities, each built upon the ruins of an older city, the first one going back to 2500 B. C. These earlier inhabitants, themselves an offshoot of the great Aryan race, were absorbed by the colonists. Music and Myth in Greece.—The beginnings of music in Greece are mingled with myths: Pan, Apollo, Mercury, Athene and others appear as the patrons and exemplars of the musical art. Aside from the names of the ",
+          "metadata": {
+            "page_id": "gutenberg-54392-p046",
+            "section": "lesson_3",
+            "printed_page": 46,
+            "extraction_status": "extracted"
+          },
+          "score": 0.5126557062242781
+        },
+        {
+          "chunk_id": "gutenberg-54392-p46-paragraph-0003",
+          "document_id": "gutenberg-54392",
+          "source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+          "page": 46,
+          "text": "By the Greeks, music as an art was considered an aid in regulating by rule the inflections of the voice, to mark the places of emphasis, and to define the pauses in the recitation of their epic",
+          "metadata": {
+            "page_id": "gutenberg-54392-p046",
+            "section": "lesson_3",
+            "printed_page": 46,
+            "extraction_status": "extracted"
+          },
+          "score": 0.4651512344632519
+        }
+      ],
+      "automatic_evidence_hit_at_3": true,
+      "human_grounding_score": null,
+      "human_notes": ""
+    }
+  ],
+  "coherence_samples": [
+    {
+      "strategy": "A",
+      "page": 17,
+      "chunk_id": "gutenberg-54392-p17-fixed-0000",
+      "text": "INTRODUCTION. Purpose of the Study of the History of Music.—The purpose of the study of the history of music is to trace the development of the many phases which make up modern music which we cannot but regard as a great social force, an intellectual, an uplifting force. If we consider it from the material side, it is one of magnitude; we need but think of the money invested in buildings, opera houses, schools, concert halls, publishing plants, factories, the sums spent on musical instruments, i",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "A",
+      "page": 18,
+      "chunk_id": "gutenberg-54392-p18-fixed-0000",
+      "text": "and as useful in expressing the innermost feelings. The raw material of music consists of the sounds considered musical, the human voice, various musical instruments and the use of this material in such ways as to affect the human sensibilities; that is, to make an impression upon the hearer which shall coincide with that of the original maker of the music who gives to his feelings expression in music. We find in music, as in other branches, that man tries to reduce phenomena to order and to def",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "A",
+      "page": 19,
+      "chunk_id": "gutenberg-54392-p19-fixed-0000",
+      "text": "For ages after the birth of Music, Rhythm and Melody were the only real elements, Rhythm being first recognized. The potency of Rhythm, strong and irresistible in the early days of the race and with primitive man, is still acknowledged. Music that lacks a clearly-defined rhythm does not move the masses. Witness martial music, the dance airs and the “popular song.” All primitive languages were characterized by concise, figurative and picturesque qualities; they easily changed from the ordinary in",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "A",
+      "page": 20,
+      "chunk_id": "gutenberg-54392-p20-fixed-0000",
+      "text": "shall lay stress on such facts as show a permanent impress and a solid contribution to progress in one or more of the lines marked out: Form, Expression, Melody, Rhythm, Harmony and Instrumental Color. In the study of a composer, the facts essential to the history of music are critical rather than biographical; not a life chronicle so much as a clear statement of what he specially contributed to forward the art. To gain an educational value, the facts of the history of music are to be studied so",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "A",
+      "page": 21,
+      "chunk_id": "gutenberg-54392-p21-fixed-0000",
+      "text": "from the nature of the instruments and the representations of musicians playing their instruments, together with fragments from contemporary or later writings. What We Learn from Ethnology.—Another source open to students of the beginnings of music is the material gathered by Ethnology. Those who place stress on this means of research lay down the proposition that the primitive people of the world of today occupy a mental and social stage similar to that of the primitive races from which the civ",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "A",
+      "page": 22,
+      "chunk_id": "gutenberg-54392-p22-fixed-0000",
+      "text": "that “Music creates audible forms, successions and combinations of tones which have no prototype in Nature and do not exist outside of Music.” Those who believe that Music is a separate entity therefore seek to trace it to a completely independent beginning.[1] Darwin offered another theory as to the way in which man arrived at Music. His idea is that the faculty of producing musical tones and rhythm was first acquired by our animal ancestors as a means of attracting the opposite sex, the facult",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "A",
+      "page": 23,
+      "chunk_id": "gutenberg-54392-p23-fixed-0000",
+      "text": "Questions and Suggestions. Why do we consider music a force in civilization? What do we mean by Expression in music? The teacher will cite periods when “Expression” was the chief aim, when Form was. Cite periods when intense political and intellectual upheaval reacted on music. Give examples of the leading principles of Music. What kind of facts are of importance to the history of Music? What is the value of Archæology to the history of music? Why is Ethnology valuable to the history of music? G",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "A",
+      "page": 24,
+      "chunk_id": "gutenberg-54392-p24-fixed-0000",
+      "text": "LESSON I. Music of the Chinese, Japanese and Hindoos. Sources of Our Knowledge.—When we study the music of the early period of the human race, we find no records such as we are storing today in our libraries. We must depend upon the discoveries of archæologists in the buried cities of early civilizations. Of contemporaneous books, properly speaking, tablets of music explaining the construction and methods of playing the musical instruments then in use we have few; if they exist they are in dead ",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "A",
+      "page": 25,
+      "chunk_id": "gutenberg-54392-p25-fixed-0000",
+      "text": "The Common Home of the Race.—Scientists place the cradle of the human race in the high plateau of Asia, extending from Persia eastward through Thibet and including part of Manchuria. The yellow race, according to some ethnologists, is the more akin to the primitive race; the other two, the white and the black, being derived from it by emigration, change of climate and mode of living. Van Aalst, the leading writer on Chinese Music, says that “the first invaders of China were a band of immigrants ",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "A",
+      "page": 26,
+      "chunk_id": "gutenberg-54392-p26-fixed-0000",
+      "text": "B. C., there were twenty-two writers on the dance and music, twenty-three on ancient music, twenty-four on playing the Kin and the Che, and twenty-five on construction of scales. These facts imply many years of previous development before the time when works treating of the science of music would be prepared. Confucius, the chief Chinese philosopher, wrote about ancient music in 551 B. C. Unfortunately, ancient records and books were almost entirely destroyed, 246 B. C., by order of the Emperor ",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "B",
+      "page": 17,
+      "chunk_id": "gutenberg-54392-p17-paragraph-0000",
+      "text": "INTRODUCTION. Purpose of the Study of the History of Music.—The purpose of the study of the history of music is to trace the development of the many phases which make up modern music which we cannot but regard as a great social force, an intellectual, an uplifting force. If we consider it from the material side, it is one of magnitude; we need but think of the money invested in buildings, opera houses, schools, concert halls, publishing plants, factories, the sums spent on musical instruments, i",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "B",
+      "page": 18,
+      "chunk_id": "gutenberg-54392-p18-paragraph-0000",
+      "text": "and as useful in expressing the innermost feelings. The raw material of music consists of the sounds considered musical, the human voice, various musical instruments and the use of this material in such ways as to affect the human sensibilities; that is, to make an impression upon the hearer which shall coincide with that of the original maker of the music who gives to his feelings expression in music. We find in music, as in other branches, that man tries to reduce phenomena to order and to def",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "B",
+      "page": 19,
+      "chunk_id": "gutenberg-54392-p19-paragraph-0000",
+      "text": "For ages after the birth of Music, Rhythm and Melody were the only real elements, Rhythm being first recognized. The potency of Rhythm, strong and irresistible in the early days of the race and with primitive man, is still acknowledged. Music that lacks a clearly-defined rhythm does not move the masses. Witness martial music, the dance airs and the “popular song.” All primitive languages were characterized by concise, figurative and picturesque qualities; they easily changed from the ordinary in",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "B",
+      "page": 20,
+      "chunk_id": "gutenberg-54392-p20-paragraph-0000",
+      "text": "shall lay stress on such facts as show a permanent impress and a solid contribution to progress in one or more of the lines marked out: Form, Expression, Melody, Rhythm, Harmony and Instrumental Color. In the study of a composer, the facts essential to the history of music are critical rather than biographical; not a life chronicle so much as a clear statement of what he specially contributed to forward the art. To gain an educational value, the facts of the history of music are to be studied so",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "B",
+      "page": 21,
+      "chunk_id": "gutenberg-54392-p21-paragraph-0000",
+      "text": "from the nature of the instruments and the representations of musicians playing their instruments, together with fragments from contemporary or later writings. What We Learn from Ethnology.—Another source open to students of the beginnings of music is the material gathered by Ethnology. Those who place stress on this means of research lay down the proposition that the primitive people of the world of today occupy a mental and social stage similar to that of the primitive races from which the civ",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "B",
+      "page": 22,
+      "chunk_id": "gutenberg-54392-p22-paragraph-0000",
+      "text": "that “Music creates audible forms, successions and combinations of tones which have no prototype in Nature and do not exist outside of Music.” Those who believe that Music is a separate entity therefore seek to trace it to a completely independent beginning.[1] Darwin offered another theory as to the way in which man arrived at Music. His idea is that the faculty of producing musical tones and rhythm was first acquired by our animal ancestors as a means of attracting the opposite sex, the facult",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "B",
+      "page": 23,
+      "chunk_id": "gutenberg-54392-p23-paragraph-0000",
+      "text": "Questions and Suggestions. Why do we consider music a force in civilization? What do we mean by Expression in music? The teacher will cite periods when “Expression” was the chief aim, when Form was. Cite periods when intense political and intellectual upheaval reacted on music. Give examples of the leading principles of Music. What kind of facts are of importance to the history of Music? What is the value of Archæology to the history of music? Why is Ethnology valuable to the history of music? G",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "B",
+      "page": 24,
+      "chunk_id": "gutenberg-54392-p24-paragraph-0000",
+      "text": "LESSON I. Music of the Chinese, Japanese and Hindoos. Sources of Our Knowledge.—When we study the music of the early period of the human race, we find no records such as we are storing today in our libraries. We must depend upon the discoveries of archæologists in the buried cities of early civilizations. Of contemporaneous books, properly speaking, tablets of music explaining the construction and methods of playing the musical instruments then in use we have few; if they exist they are in dead ",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "B",
+      "page": 25,
+      "chunk_id": "gutenberg-54392-p25-paragraph-0000",
+      "text": "The Common Home of the Race.—Scientists place the cradle of the human race in the high plateau of Asia, extending from Persia eastward through Thibet and including part of Manchuria. The yellow race, according to some ethnologists, is the more akin to the primitive race; the other two, the white and the black, being derived from it by emigration, change of climate and mode of living. Van Aalst, the leading writer on Chinese Music, says that “the first invaders of China were a band of immigrants ",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "B",
+      "page": 26,
+      "chunk_id": "gutenberg-54392-p26-paragraph-0000",
+      "text": "B. C., there were twenty-two writers on the dance and music, twenty-three on ancient music, twenty-four on playing the Kin and the Che, and twenty-five on construction of scales. These facts imply many years of previous development before the time when works treating of the science of music would be prepared. Confucius, the chief Chinese philosopher, wrote about ancient music in 551 B. C. Unfortunately, ancient records and books were almost entirely destroyed, 246 B. C., by order of the Emperor ",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "C",
+      "page": 17,
+      "chunk_id": "gutenberg-54392-p17-paragraph-0000",
+      "text": "INTRODUCTION. Purpose of the Study of the History of Music.—The purpose of the study of the history of music is to trace the development of the many phases which make up modern music which we cannot but regard as a great social force, an intellectual, an uplifting force. If we consider it from the material side, it is one of magnitude; we need but think of the money invested in buildings, opera houses, schools, concert halls, publishing plants, factories, the sums spent on musical instruments, i",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "C",
+      "page": 18,
+      "chunk_id": "gutenberg-54392-p18-paragraph-0000",
+      "text": "and as useful in expressing the innermost feelings. The raw material of music consists of the sounds considered musical, the human voice, various musical instruments and the use of this material in such ways as to affect the human sensibilities; that is, to make an impression upon the hearer which shall coincide with that of the original maker of the music who gives to his feelings expression in music. We find in music, as in other branches, that man tries to reduce phenomena to order and to def",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "C",
+      "page": 19,
+      "chunk_id": "gutenberg-54392-p19-paragraph-0000",
+      "text": "For ages after the birth of Music, Rhythm and Melody were the only real elements, Rhythm being first recognized. The potency of Rhythm, strong and irresistible in the early days of the race and with primitive man, is still acknowledged. Music that lacks a clearly-defined rhythm does not move the masses. Witness martial music, the dance airs and the “popular song.” All primitive languages were characterized by concise, figurative and picturesque qualities; they easily changed from the ordinary in",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "C",
+      "page": 20,
+      "chunk_id": "gutenberg-54392-p20-paragraph-0000",
+      "text": "shall lay stress on such facts as show a permanent impress and a solid contribution to progress in one or more of the lines marked out: Form, Expression, Melody, Rhythm, Harmony and Instrumental Color. In the study of a composer, the facts essential to the history of music are critical rather than biographical; not a life chronicle so much as a clear statement of what he specially contributed to forward the art. To gain an educational value, the facts of the history of music are to be studied so",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "C",
+      "page": 21,
+      "chunk_id": "gutenberg-54392-p21-paragraph-0000",
+      "text": "from the nature of the instruments and the representations of musicians playing their instruments, together with fragments from contemporary or later writings. What We Learn from Ethnology.—Another source open to students of the beginnings of music is the material gathered by Ethnology. Those who place stress on this means of research lay down the proposition that the primitive people of the world of today occupy a mental and social stage similar to that of the primitive races from which the civ",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "C",
+      "page": 22,
+      "chunk_id": "gutenberg-54392-p22-paragraph-0000",
+      "text": "that “Music creates audible forms, successions and combinations of tones which have no prototype in Nature and do not exist outside of Music.” Those who believe that Music is a separate entity therefore seek to trace it to a completely independent beginning.[1] Darwin offered another theory as to the way in which man arrived at Music. His idea is that the faculty of producing musical tones and rhythm was first acquired by our animal ancestors as a means of attracting the opposite sex, the facult",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "C",
+      "page": 23,
+      "chunk_id": "gutenberg-54392-p23-paragraph-0000",
+      "text": "Questions and Suggestions. Why do we consider music a force in civilization? What do we mean by Expression in music? The teacher will cite periods when “Expression” was the chief aim, when Form was. Cite periods when intense political and intellectual upheaval reacted on music. Give examples of the leading principles of Music. What kind of facts are of importance to the history of Music? What is the value of Archæology to the history of music? Why is Ethnology valuable to the history of music? G",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "C",
+      "page": 24,
+      "chunk_id": "gutenberg-54392-p24-paragraph-0000",
+      "text": "LESSON I. Music of the Chinese, Japanese and Hindoos. Sources of Our Knowledge.—When we study the music of the early period of the human race, we find no records such as we are storing today in our libraries. We must depend upon the discoveries of archæologists in the buried cities of early civilizations. Of contemporaneous books, properly speaking, tablets of music explaining the construction and methods of playing the musical instruments then in use we have few; if they exist they are in dead ",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "C",
+      "page": 25,
+      "chunk_id": "gutenberg-54392-p25-paragraph-0000",
+      "text": "The Common Home of the Race.—Scientists place the cradle of the human race in the high plateau of Asia, extending from Persia eastward through Thibet and including part of Manchuria. The yellow race, according to some ethnologists, is the more akin to the primitive race; the other two, the white and the black, being derived from it by emigration, change of climate and mode of living. Van Aalst, the leading writer on Chinese Music, says that “the first invaders of China were a band of immigrants ",
+      "human_coherence_score": null,
+      "human_notes": ""
+    },
+    {
+      "strategy": "C",
+      "page": 26,
+      "chunk_id": "gutenberg-54392-p26-paragraph-0000",
+      "text": "B. C., there were twenty-two writers on the dance and music, twenty-three on ancient music, twenty-four on playing the Kin and the Che, and twenty-five on construction of scales. These facts imply many years of previous development before the time when works treating of the science of music would be prepared. Confucius, the chief Chinese philosopher, wrote about ancient music in 551 B. C. Unfortunately, ancient records and books were almost entirely destroyed, 246 B. C., by order of the Emperor ",
+      "human_coherence_score": null,
+      "human_notes": ""
+    }
+  ]
+}

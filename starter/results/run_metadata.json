@@ -1,0 +1,4545 @@
+{
+  "created_at": "2026-11-14T16:57:09.627153+00:00",
+  "corpus_source_id": "gutenberg-54392",
+  "corpus_source": "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html",
+  "corpus_sha256": "d83c7064ece27ffa11c25403ba9e75a6a80e19b70d7ca0cfa7496d8a601b8c4a",
+  "benchmark_sha256": "38068d417c813d3d0c8b4a286133d84a2e453cc96a3a9b6e5676691e8c949b73",
+  "counted_pages": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330,
+    331,
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356,
+    357,
+    358,
+    359,
+    360,
+    361,
+    362,
+    363,
+    364,
+    365,
+    366,
+    367,
+    368,
+    369,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380,
+    381,
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389,
+    390,
+    391,
+    392,
+    393,
+    394,
+    395,
+    396,
+    397,
+    398,
+    399,
+    400,
+    401,
+    402,
+    403,
+    404,
+    405,
+    406,
+    407,
+    408,
+    409,
+    410,
+    411,
+    412,
+    413,
+    414,
+    415,
+    416,
+    417,
+    418,
+    419,
+    420,
+    421,
+    422,
+    423,
+    424,
+    425,
+    426,
+    427,
+    428,
+    429,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436,
+    437,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453,
+    454,
+    455,
+    456,
+    457,
+    458,
+    459,
+    460,
+    461,
+    462,
+    463,
+    464,
+    465,
+    466,
+    467,
+    468,
+    469,
+    470,
+    471,
+    472,
+    473,
+    474,
+    475,
+    476,
+    477,
+    478,
+    479,
+    480,
+    481,
+    482,
+    483,
+    484,
+    485,
+    486,
+    487,
+    488,
+    489,
+    490,
+    491,
+    492,
+    493,
+    494,
+    495,
+    496,
+    497,
+    498,
+    499,
+    500,
+    501,
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
+    512,
+    513,
+    514,
+    515,
+    516,
+    517,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530,
+    531,
+    532,
+    533,
+    534,
+    535,
+    536,
+    537,
+    538,
+    539,
+    540,
+    541,
+    542,
+    543,
+    544,
+    545,
+    546,
+    547,
+    548,
+    549,
+    550,
+    551,
+    552,
+    553,
+    554,
+    555,
+    556,
+    557,
+    558,
+    559,
+    560
+  ],
+  "page_count": 544,
+  "character_count_warnings": [
+    {
+      "page": 17,
+      "manifest": 1798,
+      "extracted": 1796
+    },
+    {
+      "page": 18,
+      "manifest": 2168,
+      "extracted": 2167
+    },
+    {
+      "page": 19,
+      "manifest": 2088,
+      "extracted": 2086
+    },
+    {
+      "page": 20,
+      "manifest": 2187,
+      "extracted": 2186
+    },
+    {
+      "page": 21,
+      "manifest": 2123,
+      "extracted": 2120
+    },
+    {
+      "page": 22,
+      "manifest": 1812,
+      "extracted": 1809
+    },
+    {
+      "page": 23,
+      "manifest": 1777,
+      "extracted": 1776
+    },
+    {
+      "page": 24,
+      "manifest": 1812,
+      "extracted": 1809
+    },
+    {
+      "page": 25,
+      "manifest": 2091,
+      "extracted": 2089
+    },
+    {
+      "page": 26,
+      "manifest": 2009,
+      "extracted": 2006
+    },
+    {
+      "page": 27,
+      "manifest": 654,
+      "extracted": 652
+    },
+    {
+      "page": 28,
+      "manifest": 2012,
+      "extracted": 2002
+    },
+    {
+      "page": 29,
+      "manifest": 1645,
+      "extracted": 1640
+    },
+    {
+      "page": 30,
+      "manifest": 828,
+      "extracted": 825
+    },
+    {
+      "page": 31,
+      "manifest": 1203,
+      "extracted": 1201
+    },
+    {
+      "page": 32,
+      "manifest": 1827,
+      "extracted": 1826
+    },
+    {
+      "page": 33,
+      "manifest": 1808,
+      "extracted": 1805
+    },
+    {
+      "page": 34,
+      "manifest": 402,
+      "extracted": 399
+    },
+    {
+      "page": 35,
+      "manifest": 1647,
+      "extracted": 1645
+    },
+    {
+      "page": 36,
+      "manifest": 2127,
+      "extracted": 2125
+    },
+    {
+      "page": 37,
+      "manifest": 997,
+      "extracted": 996
+    },
+    {
+      "page": 38,
+      "manifest": 2025,
+      "extracted": 2023
+    },
+    {
+      "page": 39,
+      "manifest": 1750,
+      "extracted": 1745
+    },
+    {
+      "page": 40,
+      "manifest": 572,
+      "extracted": 569
+    },
+    {
+      "page": 41,
+      "manifest": 1384,
+      "extracted": 1382
+    },
+    {
+      "page": 42,
+      "manifest": 2209,
+      "extracted": 2207
+    },
+    {
+      "page": 43,
+      "manifest": 2016,
+      "extracted": 2014
+    },
+    {
+      "page": 44,
+      "manifest": 1692,
+      "extracted": 1688
+    },
+    {
+      "page": 46,
+      "manifest": 1695,
+      "extracted": 1693
+    }
+  ],
+  "model_name": "openrouter:openai/text-embedding-3-small",
+  "embedding_dimensions": 1536,
+  "page_inventory": [
+    {
+      "page_id": "gutenberg-54392-p017",
+      "page_number": 17,
+      "printed_page": 17,
+      "normalized_characters": 1796,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p018",
+      "page_number": 18,
+      "printed_page": 18,
+      "normalized_characters": 2167,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p019",
+      "page_number": 19,
+      "printed_page": 19,
+      "normalized_characters": 2086,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p020",
+      "page_number": 20,
+      "printed_page": 20,
+      "normalized_characters": 2186,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p021",
+      "page_number": 21,
+      "printed_page": 21,
+      "normalized_characters": 2120,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p022",
+      "page_number": 22,
+      "printed_page": 22,
+      "normalized_characters": 1809,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p023",
+      "page_number": 23,
+      "printed_page": 23,
+      "normalized_characters": 1776,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p024",
+      "page_number": 24,
+      "printed_page": 24,
+      "normalized_characters": 1809,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p025",
+      "page_number": 25,
+      "printed_page": 25,
+      "normalized_characters": 2089,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p026",
+      "page_number": 26,
+      "printed_page": 26,
+      "normalized_characters": 2006,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p027",
+      "page_number": 27,
+      "printed_page": 27,
+      "normalized_characters": 652,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p028",
+      "page_number": 28,
+      "printed_page": 28,
+      "normalized_characters": 2002,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p029",
+      "page_number": 29,
+      "printed_page": 29,
+      "normalized_characters": 1640,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p030",
+      "page_number": 30,
+      "printed_page": 30,
+      "normalized_characters": 825,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p031",
+      "page_number": 31,
+      "printed_page": 31,
+      "normalized_characters": 1201,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p032",
+      "page_number": 32,
+      "printed_page": 32,
+      "normalized_characters": 1826,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p033",
+      "page_number": 33,
+      "printed_page": 33,
+      "normalized_characters": 1805,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p034",
+      "page_number": 34,
+      "printed_page": 34,
+      "normalized_characters": 399,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p035",
+      "page_number": 35,
+      "printed_page": 35,
+      "normalized_characters": 1645,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p036",
+      "page_number": 36,
+      "printed_page": 36,
+      "normalized_characters": 2125,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p037",
+      "page_number": 37,
+      "printed_page": 37,
+      "normalized_characters": 996,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p038",
+      "page_number": 38,
+      "printed_page": 38,
+      "normalized_characters": 2023,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p039",
+      "page_number": 39,
+      "printed_page": 39,
+      "normalized_characters": 1745,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p040",
+      "page_number": 40,
+      "printed_page": 40,
+      "normalized_characters": 569,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p041",
+      "page_number": 41,
+      "printed_page": 41,
+      "normalized_characters": 1382,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p042",
+      "page_number": 42,
+      "printed_page": 42,
+      "normalized_characters": 2207,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p043",
+      "page_number": 43,
+      "printed_page": 43,
+      "normalized_characters": 2014,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p044",
+      "page_number": 44,
+      "printed_page": 44,
+      "normalized_characters": 1688,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p045",
+      "page_number": 45,
+      "printed_page": 45,
+      "normalized_characters": 699,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p046",
+      "page_number": 46,
+      "printed_page": 46,
+      "normalized_characters": 1693,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p047",
+      "page_number": 47,
+      "printed_page": 47,
+      "normalized_characters": 1966,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p048",
+      "page_number": 48,
+      "printed_page": 48,
+      "normalized_characters": 1752,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p049",
+      "page_number": 49,
+      "printed_page": 49,
+      "normalized_characters": 1878,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p050",
+      "page_number": 50,
+      "printed_page": 50,
+      "normalized_characters": 1169,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p051",
+      "page_number": 51,
+      "printed_page": 51,
+      "normalized_characters": 1743,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p052",
+      "page_number": 52,
+      "printed_page": 52,
+      "normalized_characters": 1749,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p053",
+      "page_number": 53,
+      "printed_page": 53,
+      "normalized_characters": 803,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p054",
+      "page_number": 54,
+      "printed_page": 54,
+      "normalized_characters": 1246,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p055",
+      "page_number": 55,
+      "printed_page": 55,
+      "normalized_characters": 2262,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p056",
+      "page_number": 56,
+      "printed_page": 56,
+      "normalized_characters": 700,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p057",
+      "page_number": 57,
+      "printed_page": 57,
+      "normalized_characters": 1321,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p058",
+      "page_number": 58,
+      "printed_page": 58,
+      "normalized_characters": 1866,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p059",
+      "page_number": 59,
+      "printed_page": 59,
+      "normalized_characters": 1734,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p060",
+      "page_number": 60,
+      "printed_page": 60,
+      "normalized_characters": 801,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p061",
+      "page_number": 61,
+      "printed_page": 61,
+      "normalized_characters": 1680,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p062",
+      "page_number": 62,
+      "printed_page": 62,
+      "normalized_characters": 1328,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p063",
+      "page_number": 63,
+      "printed_page": 63,
+      "normalized_characters": 1692,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p064",
+      "page_number": 64,
+      "printed_page": 64,
+      "normalized_characters": 1948,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p065",
+      "page_number": 65,
+      "printed_page": 65,
+      "normalized_characters": 945,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p066",
+      "page_number": 66,
+      "printed_page": 66,
+      "normalized_characters": 1746,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p067",
+      "page_number": 67,
+      "printed_page": 67,
+      "normalized_characters": 1819,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p068",
+      "page_number": 68,
+      "printed_page": 68,
+      "normalized_characters": 740,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p069",
+      "page_number": 69,
+      "printed_page": 69,
+      "normalized_characters": 1618,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p070",
+      "page_number": 70,
+      "printed_page": 70,
+      "normalized_characters": 1159,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p071",
+      "page_number": 71,
+      "printed_page": 71,
+      "normalized_characters": 413,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p072",
+      "page_number": 72,
+      "printed_page": 72,
+      "normalized_characters": 1679,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p073",
+      "page_number": 73,
+      "printed_page": 73,
+      "normalized_characters": 1736,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p074",
+      "page_number": 74,
+      "printed_page": 74,
+      "normalized_characters": 2007,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p075",
+      "page_number": 75,
+      "printed_page": 75,
+      "normalized_characters": 2218,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p076",
+      "page_number": 76,
+      "printed_page": 76,
+      "normalized_characters": 584,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p077",
+      "page_number": 77,
+      "printed_page": 77,
+      "normalized_characters": 1659,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p078",
+      "page_number": 78,
+      "printed_page": 78,
+      "normalized_characters": 485,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p079",
+      "page_number": 79,
+      "printed_page": 79,
+      "normalized_characters": 1832,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p080",
+      "page_number": 80,
+      "printed_page": 80,
+      "normalized_characters": 1564,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p081",
+      "page_number": 81,
+      "printed_page": 81,
+      "normalized_characters": 2077,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p082",
+      "page_number": 82,
+      "printed_page": 82,
+      "normalized_characters": 2153,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p083",
+      "page_number": 83,
+      "printed_page": 83,
+      "normalized_characters": 2178,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p084",
+      "page_number": 84,
+      "printed_page": 84,
+      "normalized_characters": 1126,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p085",
+      "page_number": 85,
+      "printed_page": 85,
+      "normalized_characters": 1148,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p086",
+      "page_number": 86,
+      "printed_page": 86,
+      "normalized_characters": 1643,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p087",
+      "page_number": 87,
+      "printed_page": 87,
+      "normalized_characters": 1859,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p088",
+      "page_number": 88,
+      "printed_page": 88,
+      "normalized_characters": 1636,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p089",
+      "page_number": 89,
+      "printed_page": 89,
+      "normalized_characters": 2117,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p090",
+      "page_number": 90,
+      "printed_page": 90,
+      "normalized_characters": 2125,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p091",
+      "page_number": 91,
+      "printed_page": 91,
+      "normalized_characters": 875,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p092",
+      "page_number": 92,
+      "printed_page": 92,
+      "normalized_characters": 2102,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p093",
+      "page_number": 93,
+      "printed_page": 93,
+      "normalized_characters": 2209,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p094",
+      "page_number": 94,
+      "printed_page": 94,
+      "normalized_characters": 1585,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p095",
+      "page_number": 95,
+      "printed_page": 95,
+      "normalized_characters": 1970,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p096",
+      "page_number": 96,
+      "printed_page": 96,
+      "normalized_characters": 1579,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p097",
+      "page_number": 97,
+      "printed_page": 97,
+      "normalized_characters": 1395,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p098",
+      "page_number": 98,
+      "printed_page": 98,
+      "normalized_characters": 655,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p099",
+      "page_number": 99,
+      "printed_page": 99,
+      "normalized_characters": 1710,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p100",
+      "page_number": 100,
+      "printed_page": 100,
+      "normalized_characters": 2092,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p101",
+      "page_number": 101,
+      "printed_page": 101,
+      "normalized_characters": 1642,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p102",
+      "page_number": 102,
+      "printed_page": 102,
+      "normalized_characters": 904,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p103",
+      "page_number": 103,
+      "printed_page": 103,
+      "normalized_characters": 2171,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p104",
+      "page_number": 104,
+      "printed_page": 104,
+      "normalized_characters": 1780,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p105",
+      "page_number": 105,
+      "printed_page": 105,
+      "normalized_characters": 2070,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p106",
+      "page_number": 106,
+      "printed_page": 106,
+      "normalized_characters": 682,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p107",
+      "page_number": 107,
+      "printed_page": 107,
+      "normalized_characters": 1647,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p108",
+      "page_number": 108,
+      "printed_page": 108,
+      "normalized_characters": 2189,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p109",
+      "page_number": 109,
+      "printed_page": 109,
+      "normalized_characters": 1624,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p110",
+      "page_number": 110,
+      "printed_page": 110,
+      "normalized_characters": 2128,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p111",
+      "page_number": 111,
+      "printed_page": 111,
+      "normalized_characters": 1676,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p112",
+      "page_number": 112,
+      "printed_page": 112,
+      "normalized_characters": 2180,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p113",
+      "page_number": 113,
+      "printed_page": 113,
+      "normalized_characters": 1888,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p114",
+      "page_number": 114,
+      "printed_page": 114,
+      "normalized_characters": 1153,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p115",
+      "page_number": 115,
+      "printed_page": 115,
+      "normalized_characters": 1715,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p116",
+      "page_number": 116,
+      "printed_page": 116,
+      "normalized_characters": 2196,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p117",
+      "page_number": 117,
+      "printed_page": 117,
+      "normalized_characters": 2154,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p118",
+      "page_number": 118,
+      "printed_page": 118,
+      "normalized_characters": 1276,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p119",
+      "page_number": 119,
+      "printed_page": 119,
+      "normalized_characters": 9,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p120",
+      "page_number": 120,
+      "printed_page": 120,
+      "normalized_characters": 2135,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p121",
+      "page_number": 121,
+      "printed_page": 121,
+      "normalized_characters": 2121,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p122",
+      "page_number": 122,
+      "printed_page": 122,
+      "normalized_characters": 1667,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p123",
+      "page_number": 123,
+      "printed_page": 123,
+      "normalized_characters": 1720,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p124",
+      "page_number": 124,
+      "printed_page": 124,
+      "normalized_characters": 2049,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p125",
+      "page_number": 125,
+      "printed_page": 125,
+      "normalized_characters": 2191,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p126",
+      "page_number": 126,
+      "printed_page": 126,
+      "normalized_characters": 1869,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p127",
+      "page_number": 127,
+      "printed_page": 127,
+      "normalized_characters": 1026,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p128",
+      "page_number": 128,
+      "printed_page": 128,
+      "normalized_characters": 2150,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p129",
+      "page_number": 129,
+      "printed_page": 129,
+      "normalized_characters": 1684,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p130",
+      "page_number": 130,
+      "printed_page": 130,
+      "normalized_characters": 652,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p131",
+      "page_number": 131,
+      "printed_page": 131,
+      "normalized_characters": 1727,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p132",
+      "page_number": 132,
+      "printed_page": 132,
+      "normalized_characters": 2190,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p133",
+      "page_number": 133,
+      "printed_page": 133,
+      "normalized_characters": 924,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p134",
+      "page_number": 134,
+      "printed_page": 134,
+      "normalized_characters": 2029,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p135",
+      "page_number": 135,
+      "printed_page": 135,
+      "normalized_characters": 879,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p136",
+      "page_number": 136,
+      "printed_page": 136,
+      "normalized_characters": 2158,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p137",
+      "page_number": 137,
+      "printed_page": 137,
+      "normalized_characters": 1488,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p138",
+      "page_number": 138,
+      "printed_page": 138,
+      "normalized_characters": 1717,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p139",
+      "page_number": 139,
+      "printed_page": 139,
+      "normalized_characters": 780,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p140",
+      "page_number": 140,
+      "printed_page": 140,
+      "normalized_characters": 2192,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p141",
+      "page_number": 141,
+      "printed_page": 141,
+      "normalized_characters": 2146,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p142",
+      "page_number": 142,
+      "printed_page": 142,
+      "normalized_characters": 2141,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p143",
+      "page_number": 143,
+      "printed_page": 143,
+      "normalized_characters": 2038,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p144",
+      "page_number": 144,
+      "printed_page": 144,
+      "normalized_characters": 2182,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p145",
+      "page_number": 145,
+      "printed_page": 145,
+      "normalized_characters": 2054,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p146",
+      "page_number": 146,
+      "printed_page": 146,
+      "normalized_characters": 1627,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p147",
+      "page_number": 147,
+      "printed_page": 147,
+      "normalized_characters": 1738,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p148",
+      "page_number": 148,
+      "printed_page": 148,
+      "normalized_characters": 2077,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p149",
+      "page_number": 149,
+      "printed_page": 149,
+      "normalized_characters": 2161,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p150",
+      "page_number": 150,
+      "printed_page": 150,
+      "normalized_characters": 2099,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p151",
+      "page_number": 151,
+      "printed_page": 151,
+      "normalized_characters": 2177,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p152",
+      "page_number": 152,
+      "printed_page": 152,
+      "normalized_characters": 1078,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p153",
+      "page_number": 153,
+      "printed_page": 153,
+      "normalized_characters": 1999,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p154",
+      "page_number": 154,
+      "printed_page": 154,
+      "normalized_characters": 1839,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p155",
+      "page_number": 155,
+      "printed_page": 155,
+      "normalized_characters": 672,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p156",
+      "page_number": 156,
+      "printed_page": 156,
+      "normalized_characters": 1778,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p157",
+      "page_number": 157,
+      "printed_page": 157,
+      "normalized_characters": 1303,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p158",
+      "page_number": 158,
+      "printed_page": 158,
+      "normalized_characters": 1934,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p159",
+      "page_number": 159,
+      "printed_page": 159,
+      "normalized_characters": 2140,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p160",
+      "page_number": 160,
+      "printed_page": 160,
+      "normalized_characters": 1899,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p161",
+      "page_number": 161,
+      "printed_page": 161,
+      "normalized_characters": 2190,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p162",
+      "page_number": 162,
+      "printed_page": 162,
+      "normalized_characters": 2198,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p163",
+      "page_number": 163,
+      "printed_page": 163,
+      "normalized_characters": 955,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p164",
+      "page_number": 164,
+      "printed_page": 164,
+      "normalized_characters": 2069,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p165",
+      "page_number": 165,
+      "printed_page": 165,
+      "normalized_characters": 2032,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p166",
+      "page_number": 166,
+      "printed_page": 166,
+      "normalized_characters": 2107,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p167",
+      "page_number": 167,
+      "printed_page": 167,
+      "normalized_characters": 2068,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p168",
+      "page_number": 168,
+      "printed_page": 168,
+      "normalized_characters": 2275,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p169",
+      "page_number": 169,
+      "printed_page": 169,
+      "normalized_characters": 1495,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p170",
+      "page_number": 170,
+      "printed_page": 170,
+      "normalized_characters": 1695,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p171",
+      "page_number": 171,
+      "printed_page": 171,
+      "normalized_characters": 1725,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p172",
+      "page_number": 172,
+      "printed_page": 172,
+      "normalized_characters": 1900,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p173",
+      "page_number": 173,
+      "printed_page": 173,
+      "normalized_characters": 2182,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p174",
+      "page_number": 174,
+      "printed_page": 174,
+      "normalized_characters": 2131,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p175",
+      "page_number": 175,
+      "printed_page": 175,
+      "normalized_characters": 2129,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p176",
+      "page_number": 176,
+      "printed_page": 176,
+      "normalized_characters": 1407,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p177",
+      "page_number": 177,
+      "printed_page": 177,
+      "normalized_characters": 2218,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p178",
+      "page_number": 178,
+      "printed_page": 178,
+      "normalized_characters": 1677,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p179",
+      "page_number": 179,
+      "printed_page": 179,
+      "normalized_characters": 1478,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p180",
+      "page_number": 180,
+      "printed_page": 180,
+      "normalized_characters": 2218,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p181",
+      "page_number": 181,
+      "printed_page": 181,
+      "normalized_characters": 1526,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p182",
+      "page_number": 182,
+      "printed_page": 182,
+      "normalized_characters": 1636,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p183",
+      "page_number": 183,
+      "printed_page": 183,
+      "normalized_characters": 2114,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p184",
+      "page_number": 184,
+      "printed_page": 184,
+      "normalized_characters": 2174,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p185",
+      "page_number": 185,
+      "printed_page": 185,
+      "normalized_characters": 1734,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p186",
+      "page_number": 186,
+      "printed_page": 186,
+      "normalized_characters": 1478,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p187",
+      "page_number": 187,
+      "printed_page": 187,
+      "normalized_characters": 1626,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p188",
+      "page_number": 188,
+      "printed_page": 188,
+      "normalized_characters": 827,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p189",
+      "page_number": 189,
+      "printed_page": 189,
+      "normalized_characters": 2147,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p190",
+      "page_number": 190,
+      "printed_page": 190,
+      "normalized_characters": 1030,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p191",
+      "page_number": 191,
+      "printed_page": 191,
+      "normalized_characters": 2197,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p192",
+      "page_number": 192,
+      "printed_page": 192,
+      "normalized_characters": 2074,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p193",
+      "page_number": 193,
+      "printed_page": 193,
+      "normalized_characters": 2147,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p194",
+      "page_number": 194,
+      "printed_page": 194,
+      "normalized_characters": 1479,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p195",
+      "page_number": 195,
+      "printed_page": 195,
+      "normalized_characters": 1604,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p196",
+      "page_number": 196,
+      "printed_page": 196,
+      "normalized_characters": 2151,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p197",
+      "page_number": 197,
+      "printed_page": 197,
+      "normalized_characters": 1380,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p198",
+      "page_number": 198,
+      "printed_page": 198,
+      "normalized_characters": 2159,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p199",
+      "page_number": 199,
+      "printed_page": 199,
+      "normalized_characters": 2037,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p200",
+      "page_number": 200,
+      "printed_page": 200,
+      "normalized_characters": 2196,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p201",
+      "page_number": 201,
+      "printed_page": 201,
+      "normalized_characters": 2200,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p202",
+      "page_number": 202,
+      "printed_page": 202,
+      "normalized_characters": 1231,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p203",
+      "page_number": 203,
+      "printed_page": 203,
+      "normalized_characters": 1654,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p204",
+      "page_number": 204,
+      "printed_page": 204,
+      "normalized_characters": 2116,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p205",
+      "page_number": 205,
+      "printed_page": 205,
+      "normalized_characters": 2115,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p206",
+      "page_number": 206,
+      "printed_page": 206,
+      "normalized_characters": 2084,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p207",
+      "page_number": 207,
+      "printed_page": 207,
+      "normalized_characters": 2105,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p208",
+      "page_number": 208,
+      "printed_page": 208,
+      "normalized_characters": 1084,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p209",
+      "page_number": 209,
+      "printed_page": 209,
+      "normalized_characters": 2144,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p210",
+      "page_number": 210,
+      "printed_page": 210,
+      "normalized_characters": 1450,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p211",
+      "page_number": 211,
+      "printed_page": 211,
+      "normalized_characters": 707,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p212",
+      "page_number": 212,
+      "printed_page": 212,
+      "normalized_characters": 2126,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p213",
+      "page_number": 213,
+      "printed_page": 213,
+      "normalized_characters": 2056,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p214",
+      "page_number": 214,
+      "printed_page": 214,
+      "normalized_characters": 2314,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p215",
+      "page_number": 215,
+      "printed_page": 215,
+      "normalized_characters": 1069,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p216",
+      "page_number": 216,
+      "printed_page": 216,
+      "normalized_characters": 2127,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p217",
+      "page_number": 217,
+      "printed_page": 217,
+      "normalized_characters": 2079,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p218",
+      "page_number": 218,
+      "printed_page": 218,
+      "normalized_characters": 1476,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p219",
+      "page_number": 219,
+      "printed_page": 219,
+      "normalized_characters": 1712,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p220",
+      "page_number": 220,
+      "printed_page": 220,
+      "normalized_characters": 2176,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p221",
+      "page_number": 221,
+      "printed_page": 221,
+      "normalized_characters": 2176,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p222",
+      "page_number": 222,
+      "printed_page": 222,
+      "normalized_characters": 2055,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p223",
+      "page_number": 223,
+      "printed_page": 223,
+      "normalized_characters": 2141,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p224",
+      "page_number": 224,
+      "printed_page": 224,
+      "normalized_characters": 695,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p225",
+      "page_number": 225,
+      "printed_page": 225,
+      "normalized_characters": 1755,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p226",
+      "page_number": 226,
+      "printed_page": 226,
+      "normalized_characters": 1595,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p227",
+      "page_number": 227,
+      "printed_page": 227,
+      "normalized_characters": 2154,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p228",
+      "page_number": 228,
+      "printed_page": 228,
+      "normalized_characters": 2082,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p229",
+      "page_number": 229,
+      "printed_page": 229,
+      "normalized_characters": 2227,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p230",
+      "page_number": 230,
+      "printed_page": 230,
+      "normalized_characters": 2268,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p231",
+      "page_number": 231,
+      "printed_page": 231,
+      "normalized_characters": 1958,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p232",
+      "page_number": 232,
+      "printed_page": 232,
+      "normalized_characters": 2144,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p233",
+      "page_number": 233,
+      "printed_page": 233,
+      "normalized_characters": 1868,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p234",
+      "page_number": 234,
+      "printed_page": 234,
+      "normalized_characters": 1644,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p235",
+      "page_number": 235,
+      "printed_page": 235,
+      "normalized_characters": 1985,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p236",
+      "page_number": 236,
+      "printed_page": 236,
+      "normalized_characters": 1616,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p237",
+      "page_number": 237,
+      "printed_page": 237,
+      "normalized_characters": 1045,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p238",
+      "page_number": 238,
+      "printed_page": 238,
+      "normalized_characters": 2231,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p239",
+      "page_number": 239,
+      "printed_page": 239,
+      "normalized_characters": 1488,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p240",
+      "page_number": 240,
+      "printed_page": 240,
+      "normalized_characters": 1377,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p241",
+      "page_number": 241,
+      "printed_page": 241,
+      "normalized_characters": 807,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p242",
+      "page_number": 242,
+      "printed_page": 242,
+      "normalized_characters": 2043,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p243",
+      "page_number": 243,
+      "printed_page": 243,
+      "normalized_characters": 2245,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p244",
+      "page_number": 244,
+      "printed_page": 244,
+      "normalized_characters": 1694,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p245",
+      "page_number": 245,
+      "printed_page": 245,
+      "normalized_characters": 567,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p246",
+      "page_number": 246,
+      "printed_page": 246,
+      "normalized_characters": 1621,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p247",
+      "page_number": 247,
+      "printed_page": 247,
+      "normalized_characters": 2059,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p248",
+      "page_number": 248,
+      "printed_page": 248,
+      "normalized_characters": 2241,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p249",
+      "page_number": 249,
+      "printed_page": 249,
+      "normalized_characters": 1096,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p250",
+      "page_number": 250,
+      "printed_page": 250,
+      "normalized_characters": 2188,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p251",
+      "page_number": 251,
+      "printed_page": 251,
+      "normalized_characters": 1993,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p252",
+      "page_number": 252,
+      "printed_page": 252,
+      "normalized_characters": 1173,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p253",
+      "page_number": 253,
+      "printed_page": 253,
+      "normalized_characters": 1539,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p254",
+      "page_number": 254,
+      "printed_page": 254,
+      "normalized_characters": 1388,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p255",
+      "page_number": 255,
+      "printed_page": 255,
+      "normalized_characters": 1584,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p256",
+      "page_number": 256,
+      "printed_page": 256,
+      "normalized_characters": 2257,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p257",
+      "page_number": 257,
+      "printed_page": 257,
+      "normalized_characters": 1871,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p258",
+      "page_number": 258,
+      "printed_page": 258,
+      "normalized_characters": 2138,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p259",
+      "page_number": 259,
+      "printed_page": 259,
+      "normalized_characters": 2279,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p260",
+      "page_number": 260,
+      "printed_page": 260,
+      "normalized_characters": 565,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p261",
+      "page_number": 261,
+      "printed_page": 261,
+      "normalized_characters": 2070,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p262",
+      "page_number": 262,
+      "printed_page": 262,
+      "normalized_characters": 1053,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p263",
+      "page_number": 263,
+      "printed_page": 263,
+      "normalized_characters": 1729,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p264",
+      "page_number": 264,
+      "printed_page": 264,
+      "normalized_characters": 1962,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p265",
+      "page_number": 265,
+      "printed_page": 265,
+      "normalized_characters": 2126,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p266",
+      "page_number": 266,
+      "printed_page": 266,
+      "normalized_characters": 2067,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p267",
+      "page_number": 267,
+      "printed_page": 267,
+      "normalized_characters": 24,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p268",
+      "page_number": 268,
+      "printed_page": 268,
+      "normalized_characters": 1899,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p269",
+      "page_number": 269,
+      "printed_page": 269,
+      "normalized_characters": 2053,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p270",
+      "page_number": 270,
+      "printed_page": 270,
+      "normalized_characters": 1663,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p271",
+      "page_number": 271,
+      "printed_page": 271,
+      "normalized_characters": 22,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p272",
+      "page_number": 272,
+      "printed_page": 272,
+      "normalized_characters": 2097,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p273",
+      "page_number": 273,
+      "printed_page": 273,
+      "normalized_characters": 812,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p274",
+      "page_number": 274,
+      "printed_page": 274,
+      "normalized_characters": 1741,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p275",
+      "page_number": 275,
+      "printed_page": 275,
+      "normalized_characters": 2041,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p276",
+      "page_number": 276,
+      "printed_page": 276,
+      "normalized_characters": 2128,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p277",
+      "page_number": 277,
+      "printed_page": 277,
+      "normalized_characters": 2128,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p278",
+      "page_number": 278,
+      "printed_page": 278,
+      "normalized_characters": 2075,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p279",
+      "page_number": 279,
+      "printed_page": 279,
+      "normalized_characters": 1040,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p280",
+      "page_number": 280,
+      "printed_page": 280,
+      "normalized_characters": 2210,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p281",
+      "page_number": 281,
+      "printed_page": 281,
+      "normalized_characters": 1398,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p282",
+      "page_number": 282,
+      "printed_page": 282,
+      "normalized_characters": 19,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p283",
+      "page_number": 283,
+      "printed_page": 283,
+      "normalized_characters": 1588,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p284",
+      "page_number": 284,
+      "printed_page": 284,
+      "normalized_characters": 2111,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p285",
+      "page_number": 285,
+      "printed_page": 285,
+      "normalized_characters": 2206,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p286",
+      "page_number": 286,
+      "printed_page": 286,
+      "normalized_characters": 2018,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p287",
+      "page_number": 287,
+      "printed_page": 287,
+      "normalized_characters": 2051,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p288",
+      "page_number": 288,
+      "printed_page": 288,
+      "normalized_characters": 2045,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p289",
+      "page_number": 289,
+      "printed_page": 289,
+      "normalized_characters": 1825,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p290",
+      "page_number": 290,
+      "printed_page": 290,
+      "normalized_characters": 919,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p291",
+      "page_number": 291,
+      "printed_page": 291,
+      "normalized_characters": 1678,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p292",
+      "page_number": 292,
+      "printed_page": 292,
+      "normalized_characters": 2196,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p293",
+      "page_number": 293,
+      "printed_page": 293,
+      "normalized_characters": 24,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p294",
+      "page_number": 294,
+      "printed_page": 294,
+      "normalized_characters": 1969,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p295",
+      "page_number": 295,
+      "printed_page": 295,
+      "normalized_characters": 2127,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p296",
+      "page_number": 296,
+      "printed_page": 296,
+      "normalized_characters": 2087,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p297",
+      "page_number": 297,
+      "printed_page": 297,
+      "normalized_characters": 1493,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p298",
+      "page_number": 298,
+      "printed_page": 298,
+      "normalized_characters": 21,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p299",
+      "page_number": 299,
+      "printed_page": 299,
+      "normalized_characters": 1578,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p300",
+      "page_number": 300,
+      "printed_page": 300,
+      "normalized_characters": 2186,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p301",
+      "page_number": 301,
+      "printed_page": 301,
+      "normalized_characters": 2108,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p302",
+      "page_number": 302,
+      "printed_page": 302,
+      "normalized_characters": 2086,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p303",
+      "page_number": 303,
+      "printed_page": 303,
+      "normalized_characters": 2271,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p304",
+      "page_number": 304,
+      "printed_page": 304,
+      "normalized_characters": 2015,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p305",
+      "page_number": 305,
+      "printed_page": 305,
+      "normalized_characters": 1946,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p306",
+      "page_number": 306,
+      "printed_page": 306,
+      "normalized_characters": 622,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p307",
+      "page_number": 307,
+      "printed_page": 307,
+      "normalized_characters": 1653,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p308",
+      "page_number": 308,
+      "printed_page": 308,
+      "normalized_characters": 1960,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p309",
+      "page_number": 309,
+      "printed_page": 309,
+      "normalized_characters": 2214,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p310",
+      "page_number": 310,
+      "printed_page": 310,
+      "normalized_characters": 2007,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p311",
+      "page_number": 311,
+      "printed_page": 311,
+      "normalized_characters": 2013,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p312",
+      "page_number": 312,
+      "printed_page": 312,
+      "normalized_characters": 2076,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p313",
+      "page_number": 313,
+      "printed_page": 313,
+      "normalized_characters": 2126,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p314",
+      "page_number": 314,
+      "printed_page": 314,
+      "normalized_characters": 1170,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p315",
+      "page_number": 315,
+      "printed_page": 315,
+      "normalized_characters": 1823,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p316",
+      "page_number": 316,
+      "printed_page": 316,
+      "normalized_characters": 2013,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p317",
+      "page_number": 317,
+      "printed_page": 317,
+      "normalized_characters": 1967,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p318",
+      "page_number": 318,
+      "printed_page": 318,
+      "normalized_characters": 2055,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p319",
+      "page_number": 319,
+      "printed_page": 319,
+      "normalized_characters": 2165,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p320",
+      "page_number": 320,
+      "printed_page": 320,
+      "normalized_characters": 2112,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p321",
+      "page_number": 321,
+      "printed_page": 321,
+      "normalized_characters": 957,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p322",
+      "page_number": 322,
+      "printed_page": 322,
+      "normalized_characters": 1595,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p323",
+      "page_number": 323,
+      "printed_page": 323,
+      "normalized_characters": 1828,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p324",
+      "page_number": 324,
+      "printed_page": 324,
+      "normalized_characters": 1234,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p325",
+      "page_number": 325,
+      "printed_page": 325,
+      "normalized_characters": 1987,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p326",
+      "page_number": 326,
+      "printed_page": 326,
+      "normalized_characters": 1174,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p327",
+      "page_number": 327,
+      "printed_page": 327,
+      "normalized_characters": 1819,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p328",
+      "page_number": 328,
+      "printed_page": 328,
+      "normalized_characters": 1338,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p329",
+      "page_number": 329,
+      "printed_page": 329,
+      "normalized_characters": 2185,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p330",
+      "page_number": 330,
+      "printed_page": 330,
+      "normalized_characters": 939,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p331",
+      "page_number": 331,
+      "printed_page": 331,
+      "normalized_characters": 654,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p332",
+      "page_number": 332,
+      "printed_page": 332,
+      "normalized_characters": 1204,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p333",
+      "page_number": 333,
+      "printed_page": 333,
+      "normalized_characters": 1187,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p334",
+      "page_number": 334,
+      "printed_page": 334,
+      "normalized_characters": 1515,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p335",
+      "page_number": 335,
+      "printed_page": 335,
+      "normalized_characters": 2290,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p336",
+      "page_number": 336,
+      "printed_page": 336,
+      "normalized_characters": 2114,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p337",
+      "page_number": 337,
+      "printed_page": 337,
+      "normalized_characters": 2036,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p338",
+      "page_number": 338,
+      "printed_page": 338,
+      "normalized_characters": 2268,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p339",
+      "page_number": 339,
+      "printed_page": 339,
+      "normalized_characters": 2224,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p340",
+      "page_number": 340,
+      "printed_page": 340,
+      "normalized_characters": 834,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p341",
+      "page_number": 341,
+      "printed_page": 341,
+      "normalized_characters": 2166,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p342",
+      "page_number": 342,
+      "printed_page": 342,
+      "normalized_characters": 2182,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p343",
+      "page_number": 343,
+      "printed_page": 343,
+      "normalized_characters": 1641,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p344",
+      "page_number": 344,
+      "printed_page": 344,
+      "normalized_characters": 1727,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p345",
+      "page_number": 345,
+      "printed_page": 345,
+      "normalized_characters": 1722,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p346",
+      "page_number": 346,
+      "printed_page": 346,
+      "normalized_characters": 1801,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p347",
+      "page_number": 347,
+      "printed_page": 347,
+      "normalized_characters": 21,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p348",
+      "page_number": 348,
+      "printed_page": 348,
+      "normalized_characters": 2404,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p349",
+      "page_number": 349,
+      "printed_page": 349,
+      "normalized_characters": 2139,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p350",
+      "page_number": 350,
+      "printed_page": 350,
+      "normalized_characters": 2010,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p351",
+      "page_number": 351,
+      "printed_page": 351,
+      "normalized_characters": 2249,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p352",
+      "page_number": 352,
+      "printed_page": 352,
+      "normalized_characters": 1172,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p353",
+      "page_number": 353,
+      "printed_page": 353,
+      "normalized_characters": 1676,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p354",
+      "page_number": 354,
+      "printed_page": 354,
+      "normalized_characters": 2246,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p355",
+      "page_number": 355,
+      "printed_page": 355,
+      "normalized_characters": 1919,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p356",
+      "page_number": 356,
+      "printed_page": 356,
+      "normalized_characters": 2126,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p357",
+      "page_number": 357,
+      "printed_page": 357,
+      "normalized_characters": 2146,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p358",
+      "page_number": 358,
+      "printed_page": 358,
+      "normalized_characters": 757,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p359",
+      "page_number": 359,
+      "printed_page": 359,
+      "normalized_characters": 1978,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p360",
+      "page_number": 360,
+      "printed_page": 360,
+      "normalized_characters": 1777,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p361",
+      "page_number": 361,
+      "printed_page": 361,
+      "normalized_characters": 1600,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p362",
+      "page_number": 362,
+      "printed_page": 362,
+      "normalized_characters": 2163,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p363",
+      "page_number": 363,
+      "printed_page": 363,
+      "normalized_characters": 832,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p364",
+      "page_number": 364,
+      "printed_page": 364,
+      "normalized_characters": 2197,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p365",
+      "page_number": 365,
+      "printed_page": 365,
+      "normalized_characters": 974,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p366",
+      "page_number": 366,
+      "printed_page": 366,
+      "normalized_characters": 2153,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p367",
+      "page_number": 367,
+      "printed_page": 367,
+      "normalized_characters": 2278,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p368",
+      "page_number": 368,
+      "printed_page": 368,
+      "normalized_characters": 1615,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p369",
+      "page_number": 369,
+      "printed_page": 369,
+      "normalized_characters": 1629,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p370",
+      "page_number": 370,
+      "printed_page": 370,
+      "normalized_characters": 1780,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p371",
+      "page_number": 371,
+      "printed_page": 371,
+      "normalized_characters": 23,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p372",
+      "page_number": 372,
+      "printed_page": 372,
+      "normalized_characters": 2487,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p373",
+      "page_number": 373,
+      "printed_page": 373,
+      "normalized_characters": 2091,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p374",
+      "page_number": 374,
+      "printed_page": 374,
+      "normalized_characters": 2088,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p375",
+      "page_number": 375,
+      "printed_page": 375,
+      "normalized_characters": 2068,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p376",
+      "page_number": 376,
+      "printed_page": 376,
+      "normalized_characters": 2331,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p377",
+      "page_number": 377,
+      "printed_page": 377,
+      "normalized_characters": 1958,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p378",
+      "page_number": 378,
+      "printed_page": 378,
+      "normalized_characters": 1667,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p379",
+      "page_number": 379,
+      "printed_page": 379,
+      "normalized_characters": 971,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p380",
+      "page_number": 380,
+      "printed_page": 380,
+      "normalized_characters": 1642,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p381",
+      "page_number": 381,
+      "printed_page": 381,
+      "normalized_characters": 789,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p382",
+      "page_number": 382,
+      "printed_page": 382,
+      "normalized_characters": 2162,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p383",
+      "page_number": 383,
+      "printed_page": 383,
+      "normalized_characters": 1185,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p384",
+      "page_number": 384,
+      "printed_page": 384,
+      "normalized_characters": 2074,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p385",
+      "page_number": 385,
+      "printed_page": 385,
+      "normalized_characters": 522,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p386",
+      "page_number": 386,
+      "printed_page": 386,
+      "normalized_characters": 1336,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p387",
+      "page_number": 387,
+      "printed_page": 387,
+      "normalized_characters": 2130,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p388",
+      "page_number": 388,
+      "printed_page": 388,
+      "normalized_characters": 1646,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p389",
+      "page_number": 389,
+      "printed_page": 389,
+      "normalized_characters": 431,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p390",
+      "page_number": 390,
+      "printed_page": 390,
+      "normalized_characters": 21,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p391",
+      "page_number": 391,
+      "printed_page": 391,
+      "normalized_characters": 1664,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p392",
+      "page_number": 392,
+      "printed_page": 392,
+      "normalized_characters": 2192,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p393",
+      "page_number": 393,
+      "printed_page": 393,
+      "normalized_characters": 2155,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p394",
+      "page_number": 394,
+      "printed_page": 394,
+      "normalized_characters": 2125,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p395",
+      "page_number": 395,
+      "printed_page": 395,
+      "normalized_characters": 2091,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p396",
+      "page_number": 396,
+      "printed_page": 396,
+      "normalized_characters": 660,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p397",
+      "page_number": 397,
+      "printed_page": 397,
+      "normalized_characters": 1676,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p398",
+      "page_number": 398,
+      "printed_page": 398,
+      "normalized_characters": 2290,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p399",
+      "page_number": 399,
+      "printed_page": 399,
+      "normalized_characters": 2030,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p400",
+      "page_number": 400,
+      "printed_page": 400,
+      "normalized_characters": 1813,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p401",
+      "page_number": 401,
+      "printed_page": 401,
+      "normalized_characters": 2213,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p402",
+      "page_number": 402,
+      "printed_page": 402,
+      "normalized_characters": 2310,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p403",
+      "page_number": 403,
+      "printed_page": 403,
+      "normalized_characters": 28,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p404",
+      "page_number": 404,
+      "printed_page": 404,
+      "normalized_characters": 1894,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p405",
+      "page_number": 405,
+      "printed_page": 405,
+      "normalized_characters": 1886,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p406",
+      "page_number": 406,
+      "printed_page": 406,
+      "normalized_characters": 1720,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p407",
+      "page_number": 407,
+      "printed_page": 407,
+      "normalized_characters": 1644,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p408",
+      "page_number": 408,
+      "printed_page": 408,
+      "normalized_characters": 3332,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p409",
+      "page_number": 409,
+      "printed_page": 409,
+      "normalized_characters": 16,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p410",
+      "page_number": 410,
+      "printed_page": 410,
+      "normalized_characters": 955,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p411",
+      "page_number": 411,
+      "printed_page": 411,
+      "normalized_characters": 2136,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p412",
+      "page_number": 412,
+      "printed_page": 412,
+      "normalized_characters": 2130,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p413",
+      "page_number": 413,
+      "printed_page": 413,
+      "normalized_characters": 2136,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p414",
+      "page_number": 414,
+      "printed_page": 414,
+      "normalized_characters": 1975,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p415",
+      "page_number": 415,
+      "printed_page": 415,
+      "normalized_characters": 531,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p416",
+      "page_number": 416,
+      "printed_page": 416,
+      "normalized_characters": 16,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p417",
+      "page_number": 417,
+      "printed_page": 417,
+      "normalized_characters": 1660,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p418",
+      "page_number": 418,
+      "printed_page": 418,
+      "normalized_characters": 2126,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p419",
+      "page_number": 419,
+      "printed_page": 419,
+      "normalized_characters": 2140,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p420",
+      "page_number": 420,
+      "printed_page": 420,
+      "normalized_characters": 2076,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p421",
+      "page_number": 421,
+      "printed_page": 421,
+      "normalized_characters": 2191,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p422",
+      "page_number": 422,
+      "printed_page": 422,
+      "normalized_characters": 2148,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p423",
+      "page_number": 423,
+      "printed_page": 423,
+      "normalized_characters": 1960,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p424",
+      "page_number": 424,
+      "printed_page": 424,
+      "normalized_characters": 782,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p425",
+      "page_number": 425,
+      "printed_page": 425,
+      "normalized_characters": 1682,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p426",
+      "page_number": 426,
+      "printed_page": 426,
+      "normalized_characters": 1786,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p427",
+      "page_number": 427,
+      "printed_page": 427,
+      "normalized_characters": 12,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p428",
+      "page_number": 428,
+      "printed_page": 428,
+      "normalized_characters": 2405,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p429",
+      "page_number": 429,
+      "printed_page": 429,
+      "normalized_characters": 2401,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p430",
+      "page_number": 430,
+      "printed_page": 430,
+      "normalized_characters": 2045,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p431",
+      "page_number": 431,
+      "printed_page": 431,
+      "normalized_characters": 2117,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p432",
+      "page_number": 432,
+      "printed_page": 432,
+      "normalized_characters": 2151,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p433",
+      "page_number": 433,
+      "printed_page": 433,
+      "normalized_characters": 1954,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p434",
+      "page_number": 434,
+      "printed_page": 434,
+      "normalized_characters": 1757,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p435",
+      "page_number": 435,
+      "printed_page": 435,
+      "normalized_characters": 1345,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p436",
+      "page_number": 436,
+      "printed_page": 436,
+      "normalized_characters": 1533,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p437",
+      "page_number": 437,
+      "printed_page": 437,
+      "normalized_characters": 2155,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p438",
+      "page_number": 438,
+      "printed_page": 438,
+      "normalized_characters": 2002,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p439",
+      "page_number": 439,
+      "printed_page": 439,
+      "normalized_characters": 2135,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p440",
+      "page_number": 440,
+      "printed_page": 440,
+      "normalized_characters": 849,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p441",
+      "page_number": 441,
+      "printed_page": 441,
+      "normalized_characters": 2023,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p442",
+      "page_number": 442,
+      "printed_page": 442,
+      "normalized_characters": 2085,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p443",
+      "page_number": 443,
+      "printed_page": 443,
+      "normalized_characters": 2052,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p444",
+      "page_number": 444,
+      "printed_page": 444,
+      "normalized_characters": 2027,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p445",
+      "page_number": 445,
+      "printed_page": 445,
+      "normalized_characters": 1331,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p446",
+      "page_number": 446,
+      "printed_page": 446,
+      "normalized_characters": 1594,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p447",
+      "page_number": 447,
+      "printed_page": 447,
+      "normalized_characters": 2002,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p448",
+      "page_number": 448,
+      "printed_page": 448,
+      "normalized_characters": 2279,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p449",
+      "page_number": 449,
+      "printed_page": 449,
+      "normalized_characters": 495,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p450",
+      "page_number": 450,
+      "printed_page": 450,
+      "normalized_characters": 3583,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p451",
+      "page_number": 451,
+      "printed_page": 451,
+      "normalized_characters": 2066,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p452",
+      "page_number": 452,
+      "printed_page": 452,
+      "normalized_characters": 1750,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p453",
+      "page_number": 453,
+      "printed_page": 453,
+      "normalized_characters": 780,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p454",
+      "page_number": 454,
+      "printed_page": 454,
+      "normalized_characters": 1751,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p455",
+      "page_number": 455,
+      "printed_page": 455,
+      "normalized_characters": 2108,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p456",
+      "page_number": 456,
+      "printed_page": 456,
+      "normalized_characters": 2148,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p457",
+      "page_number": 457,
+      "printed_page": 457,
+      "normalized_characters": 2044,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p458",
+      "page_number": 458,
+      "printed_page": 458,
+      "normalized_characters": 2372,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p459",
+      "page_number": 459,
+      "printed_page": 459,
+      "normalized_characters": 1971,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p460",
+      "page_number": 460,
+      "printed_page": 460,
+      "normalized_characters": 1980,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p461",
+      "page_number": 461,
+      "printed_page": 461,
+      "normalized_characters": 870,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p462",
+      "page_number": 462,
+      "printed_page": 462,
+      "normalized_characters": 70,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p463",
+      "page_number": 463,
+      "printed_page": 463,
+      "normalized_characters": 1607,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p464",
+      "page_number": 464,
+      "printed_page": 464,
+      "normalized_characters": 2254,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p465",
+      "page_number": 465,
+      "printed_page": 465,
+      "normalized_characters": 2041,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p466",
+      "page_number": 466,
+      "printed_page": 466,
+      "normalized_characters": 2102,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p467",
+      "page_number": 467,
+      "printed_page": 467,
+      "normalized_characters": 2190,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p468",
+      "page_number": 468,
+      "printed_page": 468,
+      "normalized_characters": 1948,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p469",
+      "page_number": 469,
+      "printed_page": 469,
+      "normalized_characters": 2119,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p470",
+      "page_number": 470,
+      "printed_page": 470,
+      "normalized_characters": 2028,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p471",
+      "page_number": 471,
+      "printed_page": 471,
+      "normalized_characters": 801,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p472",
+      "page_number": 472,
+      "printed_page": 472,
+      "normalized_characters": 1722,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p473",
+      "page_number": 473,
+      "printed_page": 473,
+      "normalized_characters": 722,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p474",
+      "page_number": 474,
+      "printed_page": 474,
+      "normalized_characters": 2109,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p475",
+      "page_number": 475,
+      "printed_page": 475,
+      "normalized_characters": 2088,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p476",
+      "page_number": 476,
+      "printed_page": 476,
+      "normalized_characters": 1173,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p477",
+      "page_number": 477,
+      "printed_page": 477,
+      "normalized_characters": 2126,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p478",
+      "page_number": 478,
+      "printed_page": 478,
+      "normalized_characters": 2147,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p479",
+      "page_number": 479,
+      "printed_page": 479,
+      "normalized_characters": 1388,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p480",
+      "page_number": 480,
+      "printed_page": 480,
+      "normalized_characters": 66,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p481",
+      "page_number": 481,
+      "printed_page": 481,
+      "normalized_characters": 1615,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p482",
+      "page_number": 482,
+      "printed_page": 482,
+      "normalized_characters": 2180,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p483",
+      "page_number": 483,
+      "printed_page": 483,
+      "normalized_characters": 2150,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p484",
+      "page_number": 484,
+      "printed_page": 484,
+      "normalized_characters": 2127,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p485",
+      "page_number": 485,
+      "printed_page": 485,
+      "normalized_characters": 2088,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p486",
+      "page_number": 486,
+      "printed_page": 486,
+      "normalized_characters": 2308,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p487",
+      "page_number": 487,
+      "printed_page": 487,
+      "normalized_characters": 2009,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p488",
+      "page_number": 488,
+      "printed_page": 488,
+      "normalized_characters": 1599,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p489",
+      "page_number": 489,
+      "printed_page": 489,
+      "normalized_characters": 772,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p490",
+      "page_number": 490,
+      "printed_page": 490,
+      "normalized_characters": 73,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p491",
+      "page_number": 491,
+      "printed_page": 491,
+      "normalized_characters": 1832,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p492",
+      "page_number": 492,
+      "printed_page": 492,
+      "normalized_characters": 2132,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p493",
+      "page_number": 493,
+      "printed_page": 493,
+      "normalized_characters": 2163,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p494",
+      "page_number": 494,
+      "printed_page": 494,
+      "normalized_characters": 2120,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p495",
+      "page_number": 495,
+      "printed_page": 495,
+      "normalized_characters": 2209,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p496",
+      "page_number": 496,
+      "printed_page": 496,
+      "normalized_characters": 2107,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p497",
+      "page_number": 497,
+      "printed_page": 497,
+      "normalized_characters": 1549,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p498",
+      "page_number": 498,
+      "printed_page": 498,
+      "normalized_characters": 86,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p499",
+      "page_number": 499,
+      "printed_page": 499,
+      "normalized_characters": 1667,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p500",
+      "page_number": 500,
+      "printed_page": 500,
+      "normalized_characters": 2066,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p501",
+      "page_number": 501,
+      "printed_page": 501,
+      "normalized_characters": 2092,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p502",
+      "page_number": 502,
+      "printed_page": 502,
+      "normalized_characters": 2103,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p503",
+      "page_number": 503,
+      "printed_page": 503,
+      "normalized_characters": 2100,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p504",
+      "page_number": 504,
+      "printed_page": 504,
+      "normalized_characters": 2080,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p505",
+      "page_number": 505,
+      "printed_page": 505,
+      "normalized_characters": 1970,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p506",
+      "page_number": 506,
+      "printed_page": 506,
+      "normalized_characters": 557,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p507",
+      "page_number": 507,
+      "printed_page": 507,
+      "normalized_characters": 1583,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p508",
+      "page_number": 508,
+      "printed_page": 508,
+      "normalized_characters": 2414,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p509",
+      "page_number": 509,
+      "printed_page": 509,
+      "normalized_characters": 67,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p510",
+      "page_number": 510,
+      "printed_page": 510,
+      "normalized_characters": 1936,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p511",
+      "page_number": 511,
+      "printed_page": 511,
+      "normalized_characters": 2102,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p512",
+      "page_number": 512,
+      "printed_page": 512,
+      "normalized_characters": 2155,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p513",
+      "page_number": 513,
+      "printed_page": 513,
+      "normalized_characters": 2090,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p514",
+      "page_number": 514,
+      "printed_page": 514,
+      "normalized_characters": 1276,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p515",
+      "page_number": 515,
+      "printed_page": 515,
+      "normalized_characters": 1645,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p516",
+      "page_number": 516,
+      "printed_page": 516,
+      "normalized_characters": 2125,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p517",
+      "page_number": 517,
+      "printed_page": 517,
+      "normalized_characters": 111,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p518",
+      "page_number": 518,
+      "printed_page": 518,
+      "normalized_characters": 2135,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p519",
+      "page_number": 519,
+      "printed_page": 519,
+      "normalized_characters": 2139,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p520",
+      "page_number": 520,
+      "printed_page": 520,
+      "normalized_characters": 2128,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p521",
+      "page_number": 521,
+      "printed_page": 521,
+      "normalized_characters": 2064,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p522",
+      "page_number": 522,
+      "printed_page": 522,
+      "normalized_characters": 2130,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p523",
+      "page_number": 523,
+      "printed_page": 523,
+      "normalized_characters": 1732,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p524",
+      "page_number": 524,
+      "printed_page": 524,
+      "normalized_characters": 49,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p525",
+      "page_number": 525,
+      "printed_page": 525,
+      "normalized_characters": 1747,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p526",
+      "page_number": 526,
+      "printed_page": 526,
+      "normalized_characters": 2093,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p527",
+      "page_number": 527,
+      "printed_page": 527,
+      "normalized_characters": 2122,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p528",
+      "page_number": 528,
+      "printed_page": 528,
+      "normalized_characters": 2148,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p529",
+      "page_number": 529,
+      "printed_page": 529,
+      "normalized_characters": 2286,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p530",
+      "page_number": 530,
+      "printed_page": 530,
+      "normalized_characters": 2009,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p531",
+      "page_number": 531,
+      "printed_page": 531,
+      "normalized_characters": 308,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p532",
+      "page_number": 532,
+      "printed_page": 532,
+      "normalized_characters": 3986,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p533",
+      "page_number": 533,
+      "printed_page": 533,
+      "normalized_characters": 1701,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p534",
+      "page_number": 534,
+      "printed_page": 534,
+      "normalized_characters": 1397,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p535",
+      "page_number": 535,
+      "printed_page": 535,
+      "normalized_characters": 1686,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p536",
+      "page_number": 536,
+      "printed_page": 536,
+      "normalized_characters": 1651,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p537",
+      "page_number": 537,
+      "printed_page": 537,
+      "normalized_characters": 113,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p538",
+      "page_number": 538,
+      "printed_page": 538,
+      "normalized_characters": 2565,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p539",
+      "page_number": 539,
+      "printed_page": 539,
+      "normalized_characters": 2109,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p540",
+      "page_number": 540,
+      "printed_page": 540,
+      "normalized_characters": 2068,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p541",
+      "page_number": 541,
+      "printed_page": 541,
+      "normalized_characters": 2116,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p542",
+      "page_number": 542,
+      "printed_page": 542,
+      "normalized_characters": 1628,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p543",
+      "page_number": 543,
+      "printed_page": 543,
+      "normalized_characters": 1729,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p544",
+      "page_number": 544,
+      "printed_page": 544,
+      "normalized_characters": 2058,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p545",
+      "page_number": 545,
+      "printed_page": 545,
+      "normalized_characters": 102,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p546",
+      "page_number": 546,
+      "printed_page": 546,
+      "normalized_characters": 2125,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p547",
+      "page_number": 547,
+      "printed_page": 547,
+      "normalized_characters": 2126,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p548",
+      "page_number": 548,
+      "printed_page": 548,
+      "normalized_characters": 2012,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p549",
+      "page_number": 549,
+      "printed_page": 549,
+      "normalized_characters": 102,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p550",
+      "page_number": 550,
+      "printed_page": 550,
+      "normalized_characters": 2249,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p551",
+      "page_number": 551,
+      "printed_page": 551,
+      "normalized_characters": 2073,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p552",
+      "page_number": 552,
+      "printed_page": 552,
+      "normalized_characters": 1775,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p553",
+      "page_number": 553,
+      "printed_page": 553,
+      "normalized_characters": 2202,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p554",
+      "page_number": 554,
+      "printed_page": 554,
+      "normalized_characters": 2067,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p555",
+      "page_number": 555,
+      "printed_page": 555,
+      "normalized_characters": 2140,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p556",
+      "page_number": 556,
+      "printed_page": 556,
+      "normalized_characters": 2151,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p557",
+      "page_number": 557,
+      "printed_page": 557,
+      "normalized_characters": 2181,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p558",
+      "page_number": 558,
+      "printed_page": 558,
+      "normalized_characters": 2266,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p559",
+      "page_number": 559,
+      "printed_page": 559,
+      "normalized_characters": 907,
+      "extraction_status": "extracted"
+    },
+    {
+      "page_id": "gutenberg-54392-p560",
+      "page_number": 560,
+      "printed_page": 560,
+      "normalized_characters": 634,
+      "extraction_status": "extracted"
+    }
+  ],
+  "empty_page_count": 0,
+  "strategies": {
+    "A": {
+      "chunking": "fixed_size",
+      "size": 500,
+      "overlap": 50,
+      "filtering": false
+    },
+    "B": {
+      "chunking": "by_paragraph",
+      "max_size": 500,
+      "filtering": false
+    },
+    "C": {
+      "chunking": "by_paragraph",
+      "max_size": 500,
+      "filtering": "section"
+    }
+  },
+  "question_count": 20,
+  "test_split_status": "Exploratory rerun: the test split was inspected in earlier runs; do not interpret these results as an independent blind test.",
+  "comparison_controls": {
+    "same_corpus_for_all_strategies": true,
+    "same_model_for_all_strategies": true,
+    "same_benchmark_for_all_strategies": true,
+    "query_embeddings_reused_across_strategies": true
+  },
+  "chunk_counts": {
+    "A": 2301,
+    "B": 2192,
+    "C": 2192
+  }
+}

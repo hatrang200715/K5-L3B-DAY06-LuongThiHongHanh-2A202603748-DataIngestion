@@ -1,0 +1,133 @@
+sources:
+  - source_id: gutenberg-54392
+    title: "A Complete History of Music: For Schools, Clubs, and Private Reading"
+    author: "W. J. Baltzell"
+    contributing_authors:
+      - "H. A. Clarke"
+      - "Arthur Elson"
+      - "Clarence G. Hamilton"
+      - "Edward Burlingame Hill"
+      - "Arthur L. Judson"
+      - "Frederic S. Law"
+      - "Preston Ware Orem"
+    source_path_or_url: "https://www.gutenberg.org/cache/epub/54392/pg54392-images.html"
+    source_identifier: "Project Gutenberg eBook #54392"
+    license_or_permission: >-
+      Project Gutenberg states this work is not protected by U.S. copyright law
+      and may be copied and distributed in the United States under the Project
+      Gutenberg License and its trademark terms. Check local copyright law
+      before use or redistribution outside the United States; this manifest is
+      not a legal determination for other jurisdictions.
+    accessed_at: "2026-11-14"
+    snapshot_version: "Project Gutenberg release 2017-03-20; original edition 1908"
+    pagination: >-
+      The HTML contains a cover/title image, roman-numbered page markers v-viii,
+      and arabic printed-page markers 17-565. The first marked content page is 17.
+    counted_page_count: 544
+    arabic_page_range: [17, 560]
+    front_matter_pages: []
+    excluded_pages:
+      - pages: ["cover/title image", "v-viii"]
+        reason: "Cover and table of contents are not content pages."
+      - pages: ["561-565"]
+        reason: "Back-of-book index; not content pages."
+    page_count_rule: >-
+      Count the consecutive arabic printed pages 17-560. Exclude the cover/title
+      image and table-of-contents pages v-viii; exclude the back-of-book index
+      on pages 561-565. The source inspection found no blank or references-only
+      pages within 17-560; pages with reference lists also contain lesson
+      questions and remain included. Strip HTML markup, decode entities,
+      collapse whitespace to single spaces, and exclude page markers. The HTML
+      does not expose separate page markers for unnumbered matter before v or
+      printed pages ix-xvi.
+    page_character_checks:
+      - page_id: "gutenberg-54392-p017"
+        printed_page: 17
+        normalized_characters: 1798
+      - page_id: "gutenberg-54392-p018"
+        printed_page: 18
+        normalized_characters: 2168
+      - page_id: "gutenberg-54392-p019"
+        printed_page: 19
+        normalized_characters: 2088
+      - page_id: "gutenberg-54392-p020"
+        printed_page: 20
+        normalized_characters: 2187
+      - page_id: "gutenberg-54392-p021"
+        printed_page: 21
+        normalized_characters: 2123
+      - page_id: "gutenberg-54392-p022"
+        printed_page: 22
+        normalized_characters: 1812
+      - page_id: "gutenberg-54392-p023"
+        printed_page: 23
+        normalized_characters: 1777
+      - page_id: "gutenberg-54392-p024"
+        printed_page: 24
+        normalized_characters: 1812
+      - page_id: "gutenberg-54392-p025"
+        printed_page: 25
+        normalized_characters: 2091
+      - page_id: "gutenberg-54392-p026"
+        printed_page: 26
+        normalized_characters: 2009
+      - page_id: "gutenberg-54392-p027"
+        printed_page: 27
+        normalized_characters: 654
+      - page_id: "gutenberg-54392-p028"
+        printed_page: 28
+        normalized_characters: 2012
+      - page_id: "gutenberg-54392-p029"
+        printed_page: 29
+        normalized_characters: 1645
+      - page_id: "gutenberg-54392-p030"
+        printed_page: 30
+        normalized_characters: 828
+      - page_id: "gutenberg-54392-p031"
+        printed_page: 31
+        normalized_characters: 1203
+      - page_id: "gutenberg-54392-p032"
+        printed_page: 32
+        normalized_characters: 1827
+      - page_id: "gutenberg-54392-p033"
+        printed_page: 33
+        normalized_characters: 1808
+      - page_id: "gutenberg-54392-p034"
+        printed_page: 34
+        normalized_characters: 402
+      - page_id: "gutenberg-54392-p035"
+        printed_page: 35
+        normalized_characters: 1647
+      - page_id: "gutenberg-54392-p036"
+        printed_page: 36
+        normalized_characters: 2127
+      - page_id: "gutenberg-54392-p037"
+        printed_page: 37
+        normalized_characters: 997
+      - page_id: "gutenberg-54392-p038"
+        printed_page: 38
+        normalized_characters: 2025
+      - page_id: "gutenberg-54392-p039"
+        printed_page: 39
+        normalized_characters: 1750
+      - page_id: "gutenberg-54392-p040"
+        printed_page: 40
+        normalized_characters: 572
+      - page_id: "gutenberg-54392-p041"
+        printed_page: 41
+        normalized_characters: 1384
+      - page_id: "gutenberg-54392-p042"
+        printed_page: 42
+        normalized_characters: 2209
+      - page_id: "gutenberg-54392-p043"
+        printed_page: 43
+        normalized_characters: 2016
+      - page_id: "gutenberg-54392-p044"
+        printed_page: 44
+        normalized_characters: 1692
+      - page_id: "gutenberg-54392-p045"
+        printed_page: 45
+        normalized_characters: 699
+      - page_id: "gutenberg-54392-p046"
+        printed_page: 46
+        normalized_characters: 1695

@@ -2,3 +2,5 @@
 psycopg[binary]==3.3.8
 pypdf>=5,<7
 python-dotenv>=1,<2
+PyYAML>=6,<7
+streamlit>=1.40,<2
